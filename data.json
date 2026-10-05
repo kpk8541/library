@@ -1,0 +1,4343 @@
+{
+  "generated": "2026-10-05T22:13:34Z",
+  "books": [
+    {
+      "title": "The selfish gene",
+      "author": "Richard Dawkins",
+      "notes": "",
+      "isbn": "9780199291151"
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "The metamorphosis",
+      "author": "Kuper, Peter",
+      "notes": "",
+      "isbn": "9781400052998"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "notes": "",
+      "isbn": "9780060740450"
+    },
+    {
+      "title": "Alta",
+      "author": "Mercedes Lackey",
+      "notes": "",
+      "isbn": "9780756402167"
+    },
+    {
+      "title": "Prep",
+      "author": "Curtis Sittenfeld",
+      "notes": "",
+      "isbn": "9780812972351"
+    },
+    {
+      "title": "Walden (Yale Nota Bene)",
+      "author": "Henry David Thoreau",
+      "notes": "",
+      "isbn": "9780300110081"
+    },
+    {
+      "title": "Let the Great World Spin",
+      "author": "Colum McCann",
+      "notes": "",
+      "isbn": "9780812973990"
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "notes": "",
+      "isbn": "9781593082475"
+    },
+    {
+      "title": "The namesake",
+      "author": "Jhumpa Lahiri",
+      "notes": "",
+      "isbn": "9780618485222"
+    },
+    {
+      "title": "Foundation and empire",
+      "author": "Isaac Asimov",
+      "notes": "",
+      "isbn": "9780553293371"
+    },
+    {
+      "title": "The Bhagavad-gita",
+      "author": "Barbara Stoler Miller",
+      "notes": "",
+      "isbn": "076783005952"
+    },
+    {
+      "title": "A Confederacy of Dunces",
+      "author": "John Kennedy Toole",
+      "notes": "",
+      "isbn": "9780802130204"
+    },
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot Díaz",
+      "notes": "",
+      "isbn": "9781594483295"
+    },
+    {
+      "title": "Bossypants",
+      "author": "Tina Fey",
+      "notes": "",
+      "isbn": "9780316056892"
+    },
+    {
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "notes": "",
+      "isbn": "9780812550702"
+    },
+    {
+      "title": "Smoke and Mirrors",
+      "author": "Neil Gaiman, Richard Chizmar, William Peter Blatty, Kealan Patrick Burke, Brian Keene, Joe Hill, Joe R. Lansdale, Ray Garton",
+      "notes": "",
+      "isbn": "9780380789023"
+    },
+    {
+      "title": "Utopia Avenue",
+      "author": "David Mitchell",
+      "notes": "",
+      "isbn": "9780812997439"
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "notes": "",
+      "isbn": "9780307744432"
+    },
+    {
+      "title": "Cloud Atlas",
+      "author": "David Mitchell",
+      "notes": "",
+      "isbn": "9780375507250"
+    },
+    {
+      "title": "Life After Life",
+      "author": "Kate Atkinson",
+      "notes": "",
+      "isbn": "9780316176491"
+    },
+    {
+      "title": "America (the book)",
+      "author": "Jon Stewart, The Writers of The Daily Show",
+      "notes": "",
+      "isbn": "9780446532686"
+    },
+    {
+      "title": "Solutions and Other Problems",
+      "author": "Allie Brosh",
+      "notes": "",
+      "isbn": "9781982156947"
+    },
+    {
+      "title": "Hyperbole and a Half",
+      "author": "Allie Brosh",
+      "notes": "",
+      "isbn": "9781451666175"
+    },
+    {
+      "title": "A Study in Scarlet",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Memories of Sherlock Holmes",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "The Hound of the Bakervilles",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "The Sign of the Four",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Adventures of Sherlock Holmes",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Magician King",
+      "author": "Lev Grossman",
+      "notes": "",
+      "isbn": "9780452298019"
+    },
+    {
+      "title": "Magician's Land",
+      "author": "Lev Grossman",
+      "notes": "",
+      "isbn": "9780147516145"
+    },
+    {
+      "title": "Snow crash",
+      "author": "Neal Stephenson",
+      "notes": "",
+      "isbn": "9780553380958"
+    },
+    {
+      "title": "The intuitionist",
+      "author": "Colson Whitehead",
+      "notes": "",
+      "isbn": "9780385493000"
+    },
+    {
+      "title": "A Conjuring of Light",
+      "author": "V. E. Schwab",
+      "notes": "",
+      "isbn": "9780765387479"
+    },
+    {
+      "title": "A Darker Shade of Magic",
+      "author": "V. E. Schwab",
+      "notes": "",
+      "isbn": "9780765376466"
+    },
+    {
+      "title": "Persepolis: The Story of a Childhood (Persepolis #1-2)",
+      "author": "Marjane Satrapi",
+      "notes": "",
+      "isbn": "9780375714573"
+    },
+    {
+      "title": "looking for alaska",
+      "author": "John Green, John Green",
+      "notes": "",
+      "isbn": "9780142402511"
+    },
+    {
+      "title": "A Gathering of Shadows",
+      "author": "V. E. Schwab",
+      "notes": "",
+      "isbn": "9780765376480"
+    },
+    {
+      "title": "Pawnee",
+      "author": "Hyperion (Publisher)",
+      "notes": "",
+      "isbn": "9781401310646"
+    },
+    {
+      "title": "The Magicians",
+      "author": "Lev Grossman",
+      "notes": "",
+      "isbn": "9780452296299"
+    },
+    {
+      "title": "Wild",
+      "author": "Cheryl Strayed, Isabel Ferrer, Carlos Milla, Anna Turró Armengol",
+      "notes": "",
+      "isbn": "9780307476074"
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "notes": "",
+      "isbn": "9780679734772"
+    },
+    {
+      "title": "The tipping point",
+      "author": "Malcolm Gladwell",
+      "notes": "",
+      "isbn": "9780316346627"
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Gideon The Ninth",
+      "author": "Tamsyn Muir",
+      "notes": "",
+      "isbn": "9781250313188"
+    },
+    {
+      "title": "Harrow the Ninth",
+      "author": "Tamsyn Muir",
+      "notes": "",
+      "isbn": "9781250313225"
+    },
+    {
+      "title": "Nona the Ninth",
+      "author": "Tamsyn Muir",
+      "notes": "",
+      "isbn": "9781250854117"
+    },
+    {
+      "title": "Survivor",
+      "author": "Chuck Palahniuk",
+      "notes": "",
+      "isbn": "9780393338072"
+    },
+    {
+      "title": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "notes": "",
+      "isbn": "9781566195430"
+    },
+    {
+      "title": "A Feast for Crows",
+      "author": "George R. R. Martin",
+      "notes": "",
+      "isbn": "9780553582024"
+    },
+    {
+      "title": "A Dance With Dragons",
+      "author": "George R. R. Martin",
+      "notes": "",
+      "isbn": "9780553582017"
+    },
+    {
+      "title": "The Fifth Season (The Broken Earth)",
+      "author": "N. K. Jemisin",
+      "notes": "",
+      "isbn": "9780316229296"
+    },
+    {
+      "title": "The Obelisk Gate",
+      "author": "N. K. Jemisin",
+      "notes": "",
+      "isbn": "9780316229265"
+    },
+    {
+      "title": "The Stone Sky",
+      "author": "N. K. Jemisin",
+      "notes": "",
+      "isbn": "9780316229241"
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin",
+      "notes": "",
+      "isbn": "9780553573404"
+    },
+    {
+      "title": "A Storm of Swords",
+      "author": "George R. R. Martin",
+      "notes": "",
+      "isbn": "9780553573428"
+    },
+    {
+      "title": "A Clash of Kings",
+      "author": "George R. R. Martin",
+      "notes": "",
+      "isbn": "9780553579901"
+    },
+    {
+      "title": "The Lord Of The Rings: The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "notes": "",
+      "isbn": "9780345339706"
+    },
+    {
+      "title": "Slaughterhouse-five, or, The children's crusade",
+      "author": "Kurt Vonnegut",
+      "notes": "",
+      "isbn": "9780440180296"
+    },
+    {
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "notes": "",
+      "isbn": "9780380789030"
+    },
+    {
+      "title": "Slaughterhouse-five, or, The children's crusade",
+      "author": "Kurt Vonnegut",
+      "notes": "",
+      "isbn": "9780440180296"
+    },
+    {
+      "title": "Neverwhere",
+      "author": "Neil Gaiman",
+      "notes": "",
+      "isbn": "9780380789016"
+    },
+    {
+      "title": "The Bellmaker",
+      "author": "Brian Jacques",
+      "notes": "",
+      "isbn": "9780441003150"
+    },
+    {
+      "title": "Lord Brocktree",
+      "author": "Brian Jacques",
+      "notes": "",
+      "isbn": "9780441008728"
+    },
+    {
+      "title": "Loamhedge",
+      "author": "Brian Jacques",
+      "notes": "",
+      "isbn": "9780441011902"
+    },
+    {
+      "title": "Rakkety Tam",
+      "author": "Brian Jacques",
+      "notes": "",
+      "isbn": "9780441013180"
+    },
+    {
+      "title": "Redwall",
+      "author": "Brian Jacques",
+      "notes": "",
+      "isbn": "9780441005482"
+    },
+    {
+      "title": "Dragonquest",
+      "author": "Anne McCaffrey",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Dragonflight",
+      "author": "Anne McCaffrey",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Deadhouse Gates",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780765348791"
+    },
+    {
+      "title": "Memories of Ice (The Malazan Book of the Fallen, Book 3)",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780765348807"
+    },
+    {
+      "title": "House of chains",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780553813135"
+    },
+    {
+      "title": "Knife of Dreams",
+      "author": "Robert Jordan",
+      "notes": "",
+      "isbn": "037145007991"
+    },
+    {
+      "title": "The bonehunters",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780765348838"
+    },
+    {
+      "title": "Reaper's Gale",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780765348845"
+    },
+    {
+      "title": "Dust of dreams",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780765348869"
+    },
+    {
+      "title": "The Crippled God Book Ten Of The Malazan Book Of The Fallen",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780765348876"
+    },
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss, Marc Simonetti",
+      "notes": "",
+      "isbn": "9780756404741"
+    },
+    {
+      "title": "Under The Dome",
+      "author": "Stephen King",
+      "notes": "",
+      "isbn": "9781476767277"
+    },
+    {
+      "title": "The giver",
+      "author": "Lois Lowry",
+      "notes": "",
+      "isbn": "9780440219071"
+    },
+    {
+      "title": "Harry Potter Paperback Box Set (Books 1-7)",
+      "author": "J. K. Rowling",
+      "notes": "",
+      "isbn": "9780545162074"
+    },
+    {
+      "title": "60 Hikes Within 60 Miles",
+      "author": "Tom Watson",
+      "notes": "",
+      "isbn": "9781634041225"
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "notes": "",
+      "isbn": "9780441478125"
+    },
+    {
+      "title": "Instant Japanese",
+      "author": "Boye Lafayette De Mente",
+      "notes": "",
+      "isbn": "9784805313831"
+    },
+    {
+      "title": "25 Great Bike Rides Of The Twin Cities",
+      "author": "Jonathan Poppele",
+      "notes": "",
+      "isbn": "9781591932987"
+    },
+    {
+      "title": "Drawing the Easy Way",
+      "author": "Cobb X. Shinn",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Puzzlelopedia",
+      "author": "Robert Leighton Leighton",
+      "notes": "",
+      "isbn": "9780761172208"
+    },
+    {
+      "title": "Drama",
+      "author": "Raina Telgemeier",
+      "notes": "",
+      "isbn": "9781338269161"
+    },
+    {
+      "title": "Dictionary of the Khazars",
+      "author": "Milorad Pavić, Christina Pribicevic-Zoric",
+      "notes": "",
+      "isbn": "9780679727545"
+    },
+    {
+      "title": "New York Times Take It with You Saturday Crosswords",
+      "author": "The New York Times, Will Shortz",
+      "notes": "",
+      "isbn": "9781250847539"
+    },
+    {
+      "title": "Toll Of The Hounds Book 8",
+      "author": "Steven Erikson",
+      "notes": "",
+      "isbn": "9780765316547"
+    },
+    {
+      "title": "Assassination Vacation",
+      "author": "Sarah Vowell",
+      "notes": "",
+      "isbn": "9780743260046"
+    },
+    {
+      "title": "Take the cannoli",
+      "author": "Sarah Vowell",
+      "notes": "",
+      "isbn": "9780743205405"
+    },
+    {
+      "title": "A Concise History of Ireland",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Sound System",
+      "author": "Dave Randall",
+      "notes": "",
+      "isbn": "9780745351339"
+    },
+    {
+      "title": "The Neighborhood by the Falls",
+      "author": "",
+      "notes": "",
+      "isbn": "9780692035757"
+    },
+    {
+      "title": "Dungeon Crawler Carl",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9780593820247"
+    },
+    {
+      "title": "Carl’s Doomsday Scenario",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9780593820261"
+    },
+    {
+      "title": "The Dungeon Anarchist’s Cookbook",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9780593820285"
+    },
+    {
+      "title": "The Gate of the Feral Gods",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9780593955970"
+    },
+    {
+      "title": "The Butcher’s Masquerade",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9780593955994"
+    },
+    {
+      "title": "The Eye of the Bedlam Bride",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9780593956014"
+    },
+    {
+      "title": "This Inevitable Ruin",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9798217190041"
+    },
+    {
+      "title": "A Parade of Horribles",
+      "author": "Matt Dinniman",
+      "notes": "",
+      "isbn": "9798217190065"
+    },
+    {
+      "title": "Labyrinths",
+      "author": "Jorge Luis Borges",
+      "notes": "",
+      "isbn": "9780811216999"
+    },
+    {
+      "title": "Tom's Crossing",
+      "author": "Mark Z. Danielewski",
+      "notes": "",
+      "isbn": "9781524747718"
+    },
+    {
+      "title": "Rodham",
+      "author": "Curtis Sittenfeld",
+      "notes": "",
+      "isbn": "9780399590917"
+    },
+    {
+      "title": "The Bone Clocks",
+      "author": "David Mitchell",
+      "notes": "",
+      "isbn": "9781400065677"
+    },
+    {
+      "title": "I Like You",
+      "author": "Amy Sedaris",
+      "notes": "",
+      "isbn": "9780446578844"
+    },
+    {
+      "title": "Old Christmas",
+      "author": "Washington Irving",
+      "notes": "",
+      "isbn": "0912882301"
+    },
+    {
+      "title": "The Dave Matthews Band",
+      "author": "Morgan Delancey",
+      "notes": "",
+      "isbn": "1550224433"
+    },
+    {
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "notes": "",
+      "isbn": "9781984806734"
+    },
+    {
+      "title": "Mr. Penumbra's 24-hour bookstore",
+      "author": "Robin Sloan, Robin Sloan, Ari Fliakos, Robin Sloane",
+      "notes": "",
+      "isbn": "9781250037756"
+    },
+    {
+      "title": "Neither here nor there",
+      "author": "Bill Bryson",
+      "notes": "",
+      "isbn": "9780380713806"
+    },
+    {
+      "title": "Will Grayson, Will Grayson",
+      "author": "John Green, David Levithan",
+      "notes": "",
+      "isbn": "9780142418475"
+    },
+    {
+      "title": "Time For You",
+      "author": "",
+      "notes": "",
+      "isbn": "9781662529771"
+    },
+    {
+      "title": "Orange World",
+      "author": "Karen Russell",
+      "notes": "",
+      "isbn": "9781529111347"
+    },
+    {
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "notes": "",
+      "isbn": "9781400078776"
+    },
+    {
+      "title": "Passover magic",
+      "author": "Roni Schotter",
+      "notes": "",
+      "isbn": "9780761458425"
+    },
+    {
+      "title": "Birds of North America",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Movies are Fun",
+      "author": "Josh Cooley",
+      "notes": "",
+      "isbn": "9781452122335"
+    },
+    {
+      "title": "A People’s History of the United States",
+      "author": "Howard Zinn, Kathy Emery, Ellen Reeves, Matt Damon, Howard Zinn",
+      "notes": "",
+      "isbn": "9780060838652"
+    },
+    {
+      "title": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "notes": "",
+      "isbn": "9780451225245"
+    },
+    {
+      "title": "Our dumb world",
+      "author": "Onion Editors",
+      "notes": "",
+      "isbn": "9780316018425"
+    },
+    {
+      "title": "Beanie mania",
+      "author": "Becky Phillips",
+      "notes": "",
+      "isbn": "9780965903608"
+    },
+    {
+      "title": "Before These Crowded Streets - Guitar Tab",
+      "author": "",
+      "notes": "",
+      "isbn": "073999013573"
+    },
+    {
+      "title": "Twin Cities Bicycling",
+      "author": "Richard Arey",
+      "notes": "",
+      "isbn": "9780962091841"
+    },
+    {
+      "title": "Minneapolis and St. Paul",
+      "author": "Ryan, Greg",
+      "notes": "",
+      "isbn": "9780896585430"
+    },
+    {
+      "title": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "notes": "",
+      "isbn": "9781476746586"
+    },
+    {
+      "title": "Cloud Cuckoo Land",
+      "author": "Anthony Doerr",
+      "notes": "",
+      "isbn": "9781982168438"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "notes": "",
+      "isbn": "9781566193566"
+    },
+    {
+      "title": "Science ... for her!",
+      "author": "Megan Amram",
+      "notes": "",
+      "isbn": "9781476757889"
+    },
+    {
+      "title": "The island of the day before",
+      "author": "Umberto Eco",
+      "notes": "",
+      "isbn": "9780140259193"
+    },
+    {
+      "title": "Foucault's Pendulum",
+      "author": "Umberto Eco",
+      "notes": "",
+      "isbn": "9780156032971"
+    },
+    {
+      "title": "Paper Towns",
+      "author": "John Green",
+      "notes": "",
+      "isbn": "9780142414934"
+    },
+    {
+      "title": "A Heartbreaking work of Staggering Genius",
+      "author": "Dave Eggers, Dion Graham",
+      "notes": "",
+      "isbn": "9780375725784"
+    },
+    {
+      "title": "Into the wild",
+      "author": "Jon Krakauer",
+      "notes": "",
+      "isbn": "9780385486804"
+    },
+    {
+      "title": "Lessons from Cats for Surviving Fascism",
+      "author": "Stewart Reynolds",
+      "notes": "",
+      "isbn": "9781538778005"
+    },
+    {
+      "title": "I Could Pee on This",
+      "author": "Francesco Marciuliano",
+      "notes": "",
+      "isbn": "9781452110585"
+    },
+    {
+      "title": "The things they carried",
+      "author": "Tim O'Brien",
+      "notes": "",
+      "isbn": "9780140147735"
+    },
+    {
+      "title": "Visions of Cody",
+      "author": "Jack Kerouac, Brice Matthieussent",
+      "notes": "",
+      "isbn": "9780140179071"
+    },
+    {
+      "title": "The Perks of Being a Wallflower",
+      "author": "Stephen Chbosky",
+      "notes": "",
+      "isbn": "9780671027346"
+    },
+    {
+      "title": "Me Talk Pretty One Day",
+      "author": "David Sedaris",
+      "notes": "",
+      "isbn": "0316776963"
+    },
+    {
+      "title": "The Audacity of Hope",
+      "author": "Barack Obama, Erwin Dorado, Claudia Casanova, Esther Roig Giménez",
+      "notes": "",
+      "isbn": "9780307237705"
+    },
+    {
+      "title": "Into The Silence The Great War Mallory And The Conquest Of Everest",
+      "author": "Wade Davis",
+      "notes": "",
+      "isbn": "9780375708152"
+    },
+    {
+      "title": "Blink",
+      "author": "Malcolm Gladwell",
+      "notes": "",
+      "isbn": "9780316010665"
+    },
+    {
+      "title": "The Reunited States of America",
+      "author": "Mark Gerzon",
+      "notes": "",
+      "isbn": "9781626566583"
+    },
+    {
+      "title": "An inconvenient truth",
+      "author": "Al Gore",
+      "notes": "",
+      "isbn": "9781594865671"
+    },
+    {
+      "title": "John Adams",
+      "author": "David McCullough",
+      "notes": "",
+      "isbn": "9780743223133"
+    },
+    {
+      "title": "Do you speak American?",
+      "author": "Robert MacNeil",
+      "notes": "",
+      "isbn": "9780385511988"
+    },
+    {
+      "title": "Fairy Tale",
+      "author": "Stephen King",
+      "notes": "",
+      "isbn": "9781668002179"
+    },
+    {
+      "title": "Sister Europe",
+      "author": "Nell Zink",
+      "notes": "",
+      "isbn": "9780593534915"
+    },
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss, Marc Simonetti",
+      "notes": "",
+      "isbn": "9780756404741"
+    },
+    {
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "notes": "",
+      "isbn": "9780062255655"
+    },
+    {
+      "title": "Jonathan Strange & Mr Norrell",
+      "author": "Susanna Clarke",
+      "notes": "",
+      "isbn": "9781582346038"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "notes": "",
+      "isbn": "9780142419168"
+    },
+    {
+      "title": "White Teeth",
+      "author": "Zadie Smith",
+      "notes": "",
+      "isbn": "9780375703867"
+    },
+    {
+      "title": "The Transition of H.P. Lovecraft: The Road to Madness",
+      "author": "H.P. Lovecraft",
+      "notes": "",
+      "isbn": "9780345384225"
+    },
+    {
+      "title": "Norse Mythology",
+      "author": "Neil Gaiman, Anna Llisterri",
+      "notes": "",
+      "isbn": "9780393356182"
+    },
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss, Marc Simonetti",
+      "notes": "",
+      "isbn": "9780756404741"
+    },
+    {
+      "title": "The Wise Man's Fear",
+      "author": "Patrick Rothfuss",
+      "notes": "",
+      "isbn": "9780756407919"
+    },
+    {
+      "title": "Mistborn Trilogy",
+      "author": "Brandon Sanderson",
+      "notes": "",
+      "isbn": "9780765365439"
+    },
+    {
+      "title": "The Lord Of The Rings: The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "notes": "",
+      "isbn": "9780345339706"
+    },
+    {
+      "title": "The Return of the King",
+      "author": "J.R.R. Tolkien",
+      "notes": "",
+      "isbn": "0345339738"
+    },
+    {
+      "title": "Traffic",
+      "author": "Tom Vanderbilt",
+      "notes": "",
+      "isbn": "9780307277190"
+    },
+    {
+      "title": "The partly cloudy patriot",
+      "author": "Sarah Vowell",
+      "notes": "",
+      "isbn": "9780743243803"
+    },
+    {
+      "title": "The Gospel of the Flying Spaghetti Monster",
+      "author": "Bobby Henderson",
+      "notes": "",
+      "isbn": "9780812976564"
+    },
+    {
+      "title": "A Walking Guide To The Superior Hiking Trail",
+      "author": "Ron Morton & Judy Gibbs",
+      "notes": "",
+      "isbn": "9780978599805"
+    },
+    {
+      "title": "Salt Sugar Fat: How the Food Giants Hooked Us",
+      "author": "Michael Moss",
+      "notes": "",
+      "isbn": "9781400069804"
+    },
+    {
+      "title": "Vacationland",
+      "author": "John Hodgman",
+      "notes": "",
+      "isbn": "9780735224803"
+    },
+    {
+      "title": "How To: Absurd Scientific Advice for Common Real-World Problems",
+      "author": "Randall Munroe",
+      "notes": "",
+      "isbn": "9780525537090"
+    },
+    {
+      "title": "The World Is Flat",
+      "author": "Thomas L. Friedman",
+      "notes": "",
+      "isbn": "9780374292881"
+    },
+    {
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead",
+      "notes": "",
+      "isbn": "9780385542364"
+    },
+    {
+      "title": "La Mort immortelle",
+      "author": "刘慈欣",
+      "notes": "",
+      "isbn": "9780765377104"
+    },
+    {
+      "title": "The Dark Forest",
+      "author": "刘慈欣",
+      "notes": "",
+      "isbn": "9780765386694"
+    },
+    {
+      "title": "The Three-Body Problem",
+      "author": "刘慈欣, Vincent Schmitt, Gwennaël Gaffric, Marc Simonetti",
+      "notes": "",
+      "isbn": "9780765382030"
+    },
+    {
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "notes": "",
+      "isbn": "9780375703768"
+    },
+    {
+      "title": "The Windup Girl",
+      "author": "Paolo Bacigalupi",
+      "notes": "",
+      "isbn": "9781597801584"
+    },
+    {
+      "title": "Katabasis",
+      "author": "R. F. Kuang",
+      "notes": "",
+      "isbn": "9780063021471"
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "notes": "",
+      "isbn": "9780316556323"
+    },
+    {
+      "title": "Railsea",
+      "author": "China Miéville",
+      "notes": "",
+      "isbn": "9780345524539"
+    },
+    {
+      "title": "The Canterbury Tales",
+      "author": "Burton Raffel",
+      "notes": "",
+      "isbn": "9780812978452"
+    },
+    {
+      "title": "The Yiddish Policemen's Union",
+      "author": "Michael Chabon",
+      "notes": "",
+      "isbn": "9780007149834"
+    },
+    {
+      "title": "Age of Innocence",
+      "author": "Edith Wharton",
+      "notes": "",
+      "isbn": "9780684842370"
+    },
+    {
+      "title": "Figuring",
+      "author": "Maria Popova",
+      "notes": "",
+      "isbn": "9780525565420"
+    },
+    {
+      "title": "If on a Winter's Night a Traveler",
+      "author": "Italo Calvino",
+      "notes": "",
+      "isbn": "9780156439619"
+    },
+    {
+      "title": "La llorona de Mazatlán",
+      "author": "Katie Baker",
+      "notes": "",
+      "isbn": "9781935575870"
+    },
+    {
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "notes": "",
+      "isbn": "9780451532251"
+    },
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "notes": "",
+      "isbn": "9781473683259"
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "notes": "",
+      "isbn": "9780553293357"
+    },
+    {
+      "title": "Fifty Sheds Of Grey",
+      "author": "C. T. Grey",
+      "notes": "",
+      "isbn": "9781250033666"
+    },
+    {
+      "title": "Meow",
+      "author": "M. Owmeow",
+      "notes": "",
+      "isbn": "9781723092305"
+    },
+    {
+      "title": "Atlas Obscura",
+      "author": "Joshua Foer, Dylan Thuras, Ella Morton",
+      "notes": "",
+      "isbn": "9780761169086"
+    },
+    {
+      "title": "Ultimate Unauthorized Nintendo Game Boy Strategies",
+      "author": "Corey Sandler, Tom Badgett",
+      "notes": "",
+      "isbn": "9780553561265"
+    },
+    {
+      "title": "Slaughterhouse-five, or, The children's crusade",
+      "author": "Kurt Vonnegut",
+      "notes": "",
+      "isbn": "9780440180296"
+    },
+    {
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "notes": "",
+      "isbn": "9780380789030"
+    },
+    {
+      "title": "The Odyssey of Homer (Bantam Classics)",
+      "author": "Ὅμηρος",
+      "notes": "",
+      "isbn": "9780553213997"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "notes": "",
+      "isbn": "9780451524935"
+    },
+    {
+      "title": "Till Human Voices Wake Us",
+      "author": "Mark Budz",
+      "notes": "",
+      "isbn": "9780553588514"
+    },
+    {
+      "title": "Dandelion Wine",
+      "author": "Ray Bradbury",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "notes": "",
+      "isbn": "9780441172719"
+    },
+    {
+      "title": "Abhorsen (adult) (The Abhorsen Trilogy)",
+      "author": "Garth Nix",
+      "notes": "",
+      "isbn": "9780060594985"
+    },
+    {
+      "title": "The man in the high castle",
+      "author": "Philip K. Dick",
+      "notes": "",
+      "isbn": "9780547572482"
+    },
+    {
+      "title": "Kafka on the shore",
+      "author": "村上春樹",
+      "notes": "",
+      "isbn": "9781400079278"
+    },
+    {
+      "title": "Swords Of Haven",
+      "author": "Simon R. Green",
+      "notes": "",
+      "isbn": "9780451460868"
+    },
+    {
+      "title": "Black Swan Green",
+      "author": "David Mitchell",
+      "notes": "",
+      "isbn": "9780812974010"
+    },
+    {
+      "title": "Fragile Threads of Power",
+      "author": "V. E. Schwab",
+      "notes": "",
+      "isbn": "9780765387493"
+    },
+    {
+      "title": "The Mechanical",
+      "author": "Ian Tregillis",
+      "notes": "",
+      "isbn": "9780316248006"
+    },
+    {
+      "title": "The rising",
+      "author": "Ian Tregillis",
+      "notes": "",
+      "isbn": "9780316248013"
+    },
+    {
+      "title": "The liberation",
+      "author": "Ian Tregillis",
+      "notes": "",
+      "isbn": "9780316248051"
+    },
+    {
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "author": "Michael Chabon",
+      "notes": "",
+      "isbn": "9780312282998"
+    },
+    {
+      "title": "Cryptonomicon",
+      "author": "Neal Stephenson",
+      "notes": "",
+      "isbn": "9780380788620"
+    },
+    {
+      "title": "The hobbit, or, There and back again",
+      "author": "J.R.R. Tolkien",
+      "notes": "",
+      "isbn": "9780395071229"
+    },
+    {
+      "title": "Children of Blood and Bone",
+      "author": "Tomi Adeyemi",
+      "notes": "",
+      "isbn": "9781250170972"
+    },
+    {
+      "title": "Children of Virtue and Vengeance",
+      "author": "Tomi Adeyemi, SOPHIE LAMOTTE D'ARGY",
+      "notes": "",
+      "isbn": "9781250170996"
+    },
+    {
+      "title": "The bone season",
+      "author": "Samantha Shannon, Samnatha Shannon, Alana Kerr",
+      "notes": "",
+      "isbn": "9781620401392"
+    },
+    {
+      "title": "Batman: The Dark Knight Returns",
+      "author": "Frank Miller, David Mazzucchelli, Lynn Varley",
+      "notes": "",
+      "isbn": "9781563893421"
+    },
+    {
+      "title": "H.G. Wells, Seven Novels",
+      "author": "H. G. Wells",
+      "notes": "",
+      "isbn": "9781435114906"
+    },
+    {
+      "title": "Jules Verne",
+      "author": "Jules Verne",
+      "notes": "",
+      "isbn": "9781607103172"
+    },
+    {
+      "title": "Tumulus Vol 4",
+      "author": "Exeunt Press",
+      "notes": "",
+      "isbn": "9781962198134"
+    },
+    {
+      "title": "Tumulus Vol 5",
+      "author": "Exeunt Press",
+      "notes": "",
+      "isbn": "9781962198158"
+    },
+    {
+      "title": "Tumulus Vol 6",
+      "author": "Exeunt Press",
+      "notes": "",
+      "isbn": "9781962198165"
+    },
+    {
+      "title": "Tumulus Vol 7",
+      "author": "Exeunt Press",
+      "notes": "",
+      "isbn": "9781962198189"
+    },
+    {
+      "title": "Tumulus Vol 8",
+      "author": "Exeunt Press",
+      "notes": "",
+      "isbn": "9781962198219"
+    },
+    {
+      "title": "Dungeon Master's Guide",
+      "author": "Matt Sernett, Wizards RPG Team",
+      "notes": "",
+      "isbn": "9780786948802"
+    },
+    {
+      "title": "Volo's guide to monsters",
+      "author": "Mike Mearls",
+      "notes": "",
+      "isbn": "9780786966011"
+    },
+    {
+      "title": "Mordenkainen's tome of foes",
+      "author": "Jeremy Crawford",
+      "notes": "",
+      "isbn": "9780786966240"
+    },
+    {
+      "title": "Dungeons & Dragons Fifth Edition 2014 Monster Manual",
+      "author": "Christopher Perkins, Mike Mearls, Jeremy Crawford",
+      "notes": "",
+      "isbn": "9780786965618"
+    },
+    {
+      "title": "Heart",
+      "author": "Grant Howitt, Taylor, Christopher, Felix Miall, Helen R. Gould, Mary Hamilton",
+      "notes": "",
+      "isbn": "9781913032111"
+    },
+    {
+      "title": "Player's Handbook",
+      "author": "Richard Baker, Jeremy Crawford, Bruce R. Cordell, James Wyatt, Robert J. Schwalb",
+      "notes": "",
+      "isbn": "9780786965601"
+    },
+    {
+      "title": "Xanathar's Guide to Everything",
+      "author": "Wizards RPG Team",
+      "notes": "",
+      "isbn": "9780786966110"
+    },
+    {
+      "title": "Ink Core Rulebook",
+      "author": "Grace Collins, Donn Stroud, Andrea Pincumbe, Matt Fantastic, Quill Kolat",
+      "notes": "",
+      "isbn": "9798985696813"
+    },
+    {
+      "title": "Obojima",
+      "author": "",
+      "notes": "",
+      "isbn": "9781954777163"
+    },
+    {
+      "title": "Colostle - Guide Book",
+      "author": "",
+      "notes": "",
+      "isbn": "9780993161063"
+    },
+    {
+      "title": "Wildsea RPG - Storm & Root",
+      "author": "Felix Isaacs",
+      "notes": "",
+      "isbn": "9781736877548"
+    },
+    {
+      "title": "Wildsea RPG - Core Rules",
+      "author": "Felix Isaacs",
+      "notes": "",
+      "isbn": "9781736877586"
+    },
+    {
+      "title": "The Hard Switch",
+      "author": "Owen Pomery",
+      "notes": "",
+      "isbn": "9781910395707"
+    },
+    {
+      "title": "The Heart of Business",
+      "author": "Hubert Joly, Caroline Lambert",
+      "notes": "",
+      "isbn": "9781647820381"
+    },
+    {
+      "title": "Now, discover your strengths",
+      "author": "Marcus Buckingham, Donald O. Clifton",
+      "notes": "",
+      "isbn": "9780743201148"
+    },
+    {
+      "title": "Serving country and community",
+      "author": "Peter Frumkin",
+      "notes": "",
+      "isbn": "9780674046788"
+    },
+    {
+      "title": "Strategic thinking and the new science",
+      "author": "T. Irene Sanders",
+      "notes": "",
+      "isbn": "9780684842684"
+    },
+    {
+      "title": "Seeing Systems",
+      "author": "Barry Oshry",
+      "notes": "",
+      "isbn": "9781881052999"
+    },
+    {
+      "title": "The 99% Invisible City",
+      "author": "Roman Mars, Kurt Kohlstedt",
+      "notes": "",
+      "isbn": "9780358126607"
+    },
+    {
+      "title": "Switch",
+      "author": "Chip Heath, Chip; Heath, Dan Heath",
+      "notes": "",
+      "isbn": "9780385528757"
+    },
+    {
+      "title": "Design Justice",
+      "author": "Sasha Costanza-Chock",
+      "notes": "",
+      "isbn": "9780262043458"
+    },
+    {
+      "title": "How Change Happens",
+      "author": "Leslie R. Crutchfield",
+      "notes": "",
+      "isbn": "9781119413813"
+    },
+    {
+      "title": "Speculative Everything Design Fiction And Social Dreaming",
+      "author": "Anthony Dunne",
+      "notes": "",
+      "isbn": "9780262019842"
+    },
+    {
+      "title": "Convivial Toolbox",
+      "author": "Liz Sanders, Pieter Jan Stappers, Elizabeth B.",
+      "notes": "",
+      "isbn": "9789063692841"
+    },
+    {
+      "title": "Civic engagement in higher education",
+      "author": "Barbara Jacoby",
+      "notes": "",
+      "isbn": "9780470388464"
+    },
+    {
+      "title": "Daring Greatly",
+      "author": "Brené Brown",
+      "notes": "",
+      "isbn": "9781592407330"
+    },
+    {
+      "title": "Conversational Design",
+      "author": "Erika Hall",
+      "notes": "",
+      "isbn": "9781937557676"
+    },
+    {
+      "title": "The experience economy",
+      "author": "B. Joseph Pine",
+      "notes": "",
+      "isbn": "9781422161975"
+    },
+    {
+      "title": "The design of everyday things",
+      "author": "Donald A. Norman",
+      "notes": "",
+      "isbn": "9780465067107"
+    },
+    {
+      "title": "How to Make Sense of Any Mess: Information Architecture for Everybody",
+      "author": "Abby Covert",
+      "notes": "",
+      "isbn": "9781500615994"
+    },
+    {
+      "title": "Playing and Reality",
+      "author": "D.W. Winnicott",
+      "notes": "",
+      "isbn": "9780415345460"
+    },
+    {
+      "title": "You Better Be Lightning",
+      "author": "Andrea Gibson",
+      "notes": "",
+      "isbn": "9781943735990"
+    },
+    {
+      "title": "Lord of the Butterflies",
+      "author": "Andrea Gibson",
+      "notes": "",
+      "isbn": "9781943735426"
+    },
+    {
+      "title": "Finite and Infinite Games",
+      "author": "James P. Carse, James Carse",
+      "notes": "",
+      "isbn": "9781476731711"
+    },
+    {
+      "title": "Strengths finder 2.0",
+      "author": "Tom Rath",
+      "notes": "",
+      "isbn": "9781595620156"
+    },
+    {
+      "title": "Orbiting the giant hairball",
+      "author": "Gordon MacKenzie",
+      "notes": "",
+      "isbn": "9780670879830"
+    },
+    {
+      "title": "The Fall of the House of Usher and Other Tales",
+      "author": "Edgar Allan Poe",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Ishmael",
+      "author": "Daniel Quinn",
+      "notes": "",
+      "isbn": "9780553375404"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Bonte",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Invisible man",
+      "author": "Ralph Ellison",
+      "notes": "",
+      "isbn": "0394717155"
+    },
+    {
+      "title": "The Invisible Man",
+      "author": "H.G. Wells",
+      "notes": "This has the wrong ISBN on the back - comes up as Huckleberry",
+      "isbn": ""
+    },
+    {
+      "title": "The Blue Sword",
+      "author": "Robin McKinley",
+      "notes": "",
+      "isbn": "0441068804"
+    },
+    {
+      "title": "Joust",
+      "author": "Mercedes Lackey",
+      "notes": "",
+      "isbn": "9780756401535"
+    },
+    {
+      "title": "South",
+      "author": "Sir Ernest Henry Shackleton",
+      "notes": "",
+      "isbn": "9780451198808"
+    },
+    {
+      "title": "Slade house",
+      "author": "David Mitchell",
+      "notes": "",
+      "isbn": "9780812998689"
+    },
+    {
+      "title": "The Hero and the Crown",
+      "author": "Robin McKinley",
+      "notes": "",
+      "isbn": "9780141309811"
+    },
+    {
+      "title": "Men Explain Things to Me",
+      "author": "Rebecca Solnit",
+      "notes": "",
+      "isbn": "9781608464661"
+    },
+    {
+      "title": "Swim Home to the Vanished",
+      "author": "Brendan Shay Basham",
+      "notes": "",
+      "isbn": "9780063241091"
+    },
+    {
+      "title": "Stories of Your Life and Others",
+      "author": "Ted Chiang",
+      "notes": "",
+      "isbn": "9781101972120"
+    },
+    {
+      "title": "Swamplandia!",
+      "author": "Karen Russell",
+      "notes": "",
+      "isbn": "9780307276681"
+    },
+    {
+      "title": "Breakfast of champions",
+      "author": "Kurt Vonnegut, María Medem, Irma Triginé, Daniel Martí i Colom",
+      "notes": "",
+      "isbn": "9780385334204"
+    },
+    {
+      "title": "Bicycling science",
+      "author": "David Gordon Wilson",
+      "notes": "",
+      "isbn": "9780262731546"
+    },
+    {
+      "title": "Thank You for Voting",
+      "author": "Erin Geiger Smith",
+      "notes": "",
+      "isbn": "9780062934826"
+    },
+    {
+      "title": "Good Services",
+      "author": "Louise Downe",
+      "notes": "",
+      "isbn": "9789063695439"
+    },
+    {
+      "title": "Gravity's Rainbow (Penguin Classics Deluxe Edition)",
+      "author": "Thomas Pynchon",
+      "notes": "",
+      "isbn": "9780143039945"
+    },
+    {
+      "title": "The Nickel Boys",
+      "author": "Colson Whitehead",
+      "notes": "",
+      "isbn": "9780593312322"
+    },
+    {
+      "title": "A Sand County almanac",
+      "author": "Aldo Leopold",
+      "notes": "",
+      "isbn": "9780345345059"
+    },
+    {
+      "title": "The bicycling guide to complete bicycle maintenance & repair",
+      "author": "Todd Downs",
+      "notes": "",
+      "isbn": "9781605294872"
+    },
+    {
+      "title": "Official Advanced Dungeons & Dragons",
+      "author": "Gary Gygax",
+      "notes": "",
+      "isbn": "0880381043"
+    },
+    {
+      "title": "My own devices",
+      "author": "Dessa (Vocalist)",
+      "notes": "",
+      "isbn": "9781524742294"
+    },
+    {
+      "title": "The Field Study Handbook",
+      "author": "Jan Chipchase",
+      "notes": "",
+      "isbn": "9781939727077"
+    },
+    {
+      "title": "Through painted deserts",
+      "author": "Donald Miller",
+      "notes": "",
+      "isbn": "9780785209829"
+    },
+    {
+      "title": "Searching for God Knows What",
+      "author": "Donald Miller",
+      "notes": "",
+      "isbn": "9781400202751"
+    },
+    {
+      "title": "Energy, force, and matter",
+      "author": "P. M. Harman",
+      "notes": "",
+      "isbn": "0521288126"
+    },
+    {
+      "title": "The diamond age",
+      "author": "Neal Stephenson",
+      "notes": "",
+      "isbn": "9780553380965"
+    },
+    {
+      "title": "Stuck? Diagrams Help.",
+      "author": "Abby Covert",
+      "notes": "",
+      "isbn": "9798218020415"
+    },
+    {
+      "title": "What Happened",
+      "author": "Hillary Rodham Clinton",
+      "notes": "",
+      "isbn": "9781501175565"
+    },
+    {
+      "title": "And nothing but the truthiness",
+      "author": "Lisa Rogak",
+      "notes": "",
+      "isbn": "9780312616106"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "notes": "",
+      "isbn": "9780307455291"
+    },
+    {
+      "title": "A great and terrible beauty",
+      "author": "Libba Bray",
+      "notes": "",
+      "isbn": "9780385732314"
+    },
+    {
+      "title": "Real life",
+      "author": "Brandon Taylor, Brandon Taylor",
+      "notes": "",
+      "isbn": "9780525538882"
+    },
+    {
+      "title": "Fight Club",
+      "author": "Chuck Palahniuk",
+      "notes": "",
+      "isbn": "9780393327342"
+    },
+    {
+      "title": "Darkness At Noon",
+      "author": "Arthur Koestler",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Bicycle vacation guide",
+      "author": "Doug Shidell",
+      "notes": "",
+      "isbn": "9780974662565"
+    },
+    {
+      "title": "Utilitarianism",
+      "author": "John Stuart Mill",
+      "notes": "",
+      "isbn": "9780872206052"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "notes": "",
+      "isbn": "9780452284241"
+    },
+    {
+      "title": "Enrique's journey",
+      "author": "Sonia Nazario",
+      "notes": "",
+      "isbn": "9780812971781"
+    },
+    {
+      "title": "Einstein's dreams",
+      "author": "Alan P. Lightman",
+      "notes": "",
+      "isbn": "9780446670111"
+    },
+    {
+      "title": "A Visit from the Goon Squad",
+      "author": "Jennifer Egan",
+      "notes": "",
+      "isbn": "9780307477477"
+    },
+    {
+      "title": "I Am Not Your Perfect Mexican Daughter",
+      "author": "Erika L. Sánchez",
+      "notes": "",
+      "isbn": "9781524700515"
+    },
+    {
+      "title": "Dragon Teeth",
+      "author": "Michael Crichton",
+      "notes": "",
+      "isbn": "9780062473363"
+    },
+    {
+      "title": "Never",
+      "author": "Ken Follett",
+      "notes": "",
+      "isbn": "9780593300046"
+    },
+    {
+      "title": "Trust Exercise",
+      "author": "Susan Choi, Adina Verson, Jennifer Lim, Suehyla El-Attar",
+      "notes": "",
+      "isbn": "9781250231260"
+    },
+    {
+      "title": "On the road",
+      "author": "Jack Kerouac",
+      "notes": "",
+      "isbn": "9780140042597"
+    },
+    {
+      "title": "The bridges of Madison County",
+      "author": "Robert James Waller",
+      "notes": "",
+      "isbn": "9780446516525"
+    },
+    {
+      "title": "You Can't Go Home Again",
+      "author": "Thomas Wolfe",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket",
+      "notes": "",
+      "isbn": "9780064407663"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Rose-Marie Vassallo",
+      "notes": "",
+      "isbn": "9780064410137"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman",
+      "notes": "",
+      "isbn": "9780064410144"
+    },
+    {
+      "title": "The Penultimate Peril (A Series of Unfortunate Events #12)",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman, Rose-Marie Vassallo-Villaneau",
+      "notes": "",
+      "isbn": "9780064410151"
+    },
+    {
+      "title": "The End (A Series of Unfortunate Events #13)",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman",
+      "notes": "",
+      "isbn": "9780064410168"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman, Nestor Busquets",
+      "notes": "",
+      "isbn": "9780064407670"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman, Nestor Busquets",
+      "notes": "",
+      "isbn": "9780064407687"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket",
+      "notes": "",
+      "isbn": "9780064407694"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman",
+      "notes": "",
+      "isbn": "9780064408639"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman, Veronica Canales",
+      "notes": "",
+      "isbn": "9780064408646"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman",
+      "notes": "",
+      "isbn": "9780064408653"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman",
+      "notes": "",
+      "isbn": "9780064408660"
+    },
+    {
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket, Brett Helquist, Michael Kupperman",
+      "notes": "",
+      "isbn": "9780064410120"
+    },
+    {
+      "title": "Special Topics in Calamity Physics",
+      "author": "Marisha Pessl",
+      "notes": "",
+      "isbn": "9780143112129"
+    },
+    {
+      "title": "Seven Days in June",
+      "author": "Tia Williams, Mela Lee",
+      "notes": "",
+      "isbn": "9781538719107"
+    },
+    {
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand, Sophie Bastide-Foltz, Adrian Rand",
+      "notes": "",
+      "isbn": "9780451191144"
+    },
+    {
+      "title": "Words of Radiance",
+      "author": "Brandon Sanderson",
+      "notes": "",
+      "isbn": "9780765365286"
+    },
+    {
+      "title": "The Goldfinch",
+      "author": "Donna Tartt, Katia Benovich",
+      "notes": "",
+      "isbn": "9780316055444"
+    },
+    {
+      "title": "Best hikes near Denver and Boulder",
+      "author": "Maryann Gaug",
+      "notes": "",
+      "isbn": "9780762746033"
+    },
+    {
+      "title": "My Ántonia",
+      "author": "Willa Cather",
+      "notes": "",
+      "isbn": "9781593082024"
+    },
+    {
+      "title": "Fire and ice",
+      "author": "Erin Hunter",
+      "notes": "",
+      "isbn": "046594005991"
+    },
+    {
+      "title": "Quicksilver",
+      "author": "Neal Stephenson",
+      "notes": "",
+      "isbn": "0380977427"
+    },
+    {
+      "title": "Heart of Darkness and Selected Short Fiction (Barnes & Noble Classics Series) (Barnes & Noble Classics)",
+      "author": "Joseph Conrad",
+      "notes": "",
+      "isbn": "9781593083267"
+    },
+    {
+      "title": "Waking the tiger",
+      "author": "Peter A. Levine",
+      "notes": "",
+      "isbn": "9781556432330"
+    },
+    {
+      "title": "Gentlemen of the Road",
+      "author": "Michael Chabon",
+      "notes": "",
+      "isbn": "9780345502070"
+    },
+    {
+      "title": "Down the Yukon",
+      "author": "Will Hobbs",
+      "notes": "",
+      "isbn": "9780380733095"
+    },
+    {
+      "title": "Family Chao",
+      "author": "Lan Samantha Chang",
+      "notes": "",
+      "isbn": "9780393868074"
+    },
+    {
+      "title": "Little Fires Everywhere: A Novel",
+      "author": "Celeste Ng",
+      "notes": "",
+      "isbn": "9780735224315"
+    },
+    {
+      "title": "Fast Food Nation",
+      "author": "Eric Schlosser, Eric Schlosser",
+      "notes": "",
+      "isbn": "9780060938451"
+    },
+    {
+      "title": "Catching Fire",
+      "author": "Suzanne Collins",
+      "notes": "",
+      "isbn": "9780439023498"
+    },
+    {
+      "title": "Mockingjay",
+      "author": "Suzanne Collins",
+      "notes": "",
+      "isbn": "9780439023511"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "notes": "",
+      "isbn": "9780439023528"
+    },
+    {
+      "title": "Maus I, My Father Bleeds History",
+      "author": "Art Spiegelman",
+      "notes": "",
+      "isbn": "0394747232"
+    },
+    {
+      "title": "Maus II: And Here My Troubles Began",
+      "author": "Art Spiegelman",
+      "notes": "",
+      "isbn": "9780679729778"
+    },
+    {
+      "title": "Underground airlines",
+      "author": "Ben H. Winters",
+      "notes": "",
+      "isbn": "9780316261241"
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "notes": "",
+      "isbn": "9780375842207"
+    },
+    {
+      "title": "The Secret of Platform 13",
+      "author": "Eva Ibbotson, Yi bo sen, Jiang shu qin",
+      "notes": "",
+      "isbn": "9780141302867"
+    },
+    {
+      "title": "The Beach",
+      "author": "Alex Garland",
+      "notes": "",
+      "isbn": "9781573226523"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "notes": "",
+      "isbn": "0446310786"
+    },
+    {
+      "title": "The poisonwood Bible",
+      "author": "Barbara Kingsolver, Dean Robertson, Aurora Ballester Gasso",
+      "notes": "",
+      "isbn": "9780060930530"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "notes": "",
+      "isbn": "9780385490818"
+    },
+    {
+      "title": "Ready Player One",
+      "author": "Ernest Cline",
+      "notes": "",
+      "isbn": "9780553459388"
+    },
+    {
+      "title": "Strange Beasts of China",
+      "author": "Yan Ge, Jeremy Tiang",
+      "notes": "",
+      "isbn": "9781612199702"
+    },
+    {
+      "title": "What Is Not Yours Is Not Yours",
+      "author": "Helen Oyeyemi",
+      "notes": "",
+      "isbn": "9781594634642"
+    },
+    {
+      "title": "The Westing game",
+      "author": "Ellen Raskin",
+      "notes": "",
+      "isbn": "9780439412810"
+    },
+    {
+      "title": "Manhattan Beach",
+      "author": "Jennifer Egan",
+      "notes": "",
+      "isbn": "9781476716749"
+    },
+    {
+      "title": "Designing Visual Interfaces",
+      "author": "Kevin Mullet, Darrell Sano",
+      "notes": "",
+      "isbn": "9780133033892"
+    },
+    {
+      "title": "Site-seeing",
+      "author": "Luke Wroblewski",
+      "notes": "",
+      "isbn": "9780764536748"
+    },
+    {
+      "title": "Designing Interfaces",
+      "author": "Jenifer Tidwell",
+      "notes": "ISBN autocompletes to a differnt book",
+      "isbn": ""
+    },
+    {
+      "title": "Atlas of the World",
+      "author": "Oxford",
+      "notes": "",
+      "isbn": "9780199829958"
+    },
+    {
+      "title": "Superior: Photography by Charles Steinhacker",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "National Geographic Road Atlas - Adventure Edition",
+      "author": "National Geographic Society (U.S.). Cartographic Division.",
+      "notes": "",
+      "isbn": "9780792289890"
+    },
+    {
+      "title": "The Onion Book of Known Knowledge",
+      "author": "",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "First Avenue",
+      "author": "Chris Riemenschneider",
+      "notes": "",
+      "isbn": "9781681342399"
+    },
+    {
+      "title": "Minneapolis-St.Paul then & now",
+      "author": "Hanje Richards",
+      "notes": "",
+      "isbn": "9781571456878"
+    },
+    {
+      "title": "My Cat Record Book",
+      "author": "Rachael Hale",
+      "notes": "",
+      "isbn": "9780821256978"
+    },
+    {
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "notes": "",
+      "isbn": "9780345339713"
+    },
+    {
+      "title": "Sushi",
+      "author": "Lulu Grimes",
+      "notes": "",
+      "isbn": "9781405475198"
+    },
+    {
+      "title": "Make Mead Like a Viking",
+      "author": "Jereme Zimmerman",
+      "notes": "",
+      "isbn": "9781603585989"
+    },
+    {
+      "title": "Fermented vegetables",
+      "author": "Kirsten Shockey",
+      "notes": "",
+      "isbn": "9781612124254"
+    },
+    {
+      "title": "The Art of Fermentation",
+      "author": "Sandor Ellix Katz, Alejandro Pareja Rodríguez",
+      "notes": "",
+      "isbn": "9781603582865"
+    },
+    {
+      "title": "How to Brew",
+      "author": "John J. Palmer",
+      "notes": "",
+      "isbn": "9780937381885"
+    },
+    {
+      "title": "Daytripper",
+      "author": "Fabio Moon",
+      "notes": "",
+      "isbn": "9781401229696"
+    },
+    {
+      "title": "Tuesdays with Morrie",
+      "author": "Mitch Albom",
+      "notes": "",
+      "isbn": "9780385484510"
+    },
+    {
+      "title": "Middlesex",
+      "author": "Jeffrey Eugenides",
+      "notes": "",
+      "isbn": "0312422156"
+    },
+    {
+      "title": "Cod",
+      "author": "Mark Kurlansky, S. D. Schindler",
+      "notes": "",
+      "isbn": "9780802713261"
+    },
+    {
+      "title": "Breakfast of Champions",
+      "author": "Kurt Vonnegut",
+      "notes": "",
+      "isbn": ""
+    },
+    {
+      "title": "Captains Courageous",
+      "author": "Rudyard Kipling",
+      "notes": "",
+      "isbn": "9780451465658"
+    },
+    {
+      "title": "Fight Club",
+      "author": "Chuck Palahniuk",
+      "notes": "",
+      "isbn": "9780393327342"
+    },
+    {
+      "title": "Wind and Truth",
+      "author": "Brandon Sanderson",
+      "notes": "",
+      "isbn": "9781250319180"
+    },
+    {
+      "title": "On beauty",
+      "author": "Zadie Smith, Peter Francis James, Adjoa Andoh, Philippe Aronson, Ana María de la Fuente Suárez",
+      "notes": "",
+      "isbn": "9780143037743"
+    },
+    {
+      "title": "Rhythm of War",
+      "author": "Brandon Sanderson",
+      "notes": "",
+      "isbn": "9780765326386"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "format": "",
+      "year": "2008",
+      "cover": "covers/UbjOn2SGoaTe8sXvUr71Z35WoQ207EUO_82929539e7b156a3c57aee59851cee9596adcbc09af96e29daa7dbc90136c392.jpg"
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "Seventeen Days",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/DOEkSdbCSzMwGWAbYdnRkg1qs2u1X6LR_df195597fb313a2021410a1f850734fd02cf392896df9d6bd1d8315358d1b6d3.jpg"
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "Away From the Sun",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/OkV1MH6KhzhwU9yZfW0cs3rorNqBiB8P_7befb68940da95c4b6f0c7463f8abe262ddfeb7310f7b310621553254040c0b1.jpg"
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "3 Doors Down",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Ace of Base",
+      "title": "Cruel Summer",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/Sc0NqGJO30CoCp3mOFWxnO6J0qj8JrN1_f91586387c3d5461d0add95022cf0ce5e943d863a6f2e34b98dd03789e1f1b5e.png"
+    },
+    {
+      "artist": "Aimee Mann",
+      "title": "The Forgotten Arm",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/DXOWioEPnJ9odaNz4sMviTfg7R1Gkkex_363a04658d9d3a0baa40bce5841b08e5a8509f419d8a6875db86920102726458.jpg"
+    },
+    {
+      "artist": "Annie Lennox",
+      "title": "Bare",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/HNOxWh3OihxJbQwxihgqfTrbl1Ez9Qcj_3595ad4fcf3de7de57d578906a0cef3b1290c27555da3421e562acbac1de7049.jpg"
+    },
+    {
+      "artist": "Fiona Apple",
+      "title": "When the Pawn Hits the Conflicts He Thinks Like a King What He Knows Throws the Blows When He Goes to the Fight and He’ll Win the Whole Thing ’Fore He Enters the Ring There’s No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold Your Own Hand and Remember That Depth Is the Greatest of Heights and If You Know Where You Stand, Then You Know Where to Land and If You Fall It Won’t Matter, Cuz You’ll Know That You’re Right",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/sgyHnhC4PxC0OdXrHbFWhaEZdUAGXrSW_d981e08624b8600e01c10524a83c4c377d5ca235fa7bd4de90abc01d09f2b7b9.png"
+    },
+    {
+      "artist": "Fiona Apple",
+      "title": "Tidal",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/nYNgmAs9HB6dUXtaI4zsHxSSuH17aGGA_6c166f255ae975999bee95b662a74dccee1e57535646af41d1d757609f8acb2d.png"
+    },
+    {
+      "artist": "Arcade Fire",
+      "title": "Reflektor",
+      "format": "",
+      "year": "2013",
+      "cover": "covers/KZ4KN90ffzj7sXQN90xcHeoKnc7YSjUn_ce65c3adf84ff699e0d775070710c948defe688a2ad0b80d0ab67a1b0e9f10f5.jpg"
+    },
+    {
+      "artist": "The Avett Brothers",
+      "title": "Mignonette",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/pc3uWIoVJVa0nBVMerh1I0LxTTF6gUIW_c7202c25f6dfe37b95f2e976b7c5e32e0738dc6949d2010f349f9311b763d7ea.jpg"
+    },
+    {
+      "artist": "The Avett Brothers",
+      "title": "Four Thieves Gone: The Robbinsville Sessions",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/B1kgYgDEnr36ZQSO0riE9MrIKTKBkndQ_c8489d7e75970c444f66b6764eee43fdd9df2df1ffff3620a1755cf5c873ccc5.jpg"
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "Let Go",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/1zlq2sBSX5IVMKXACDWJZnCzvKV5yyDw_9a904c947e05c94b750ee84a5a96938fcdb76e4ea7e2bc327f9c46afdf4c603a.jpg"
+    },
+    {
+      "artist": "Erykah Badu",
+      "title": "Baduism",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Rock Spectacle",
+      "format": "",
+      "year": "",
+      "cover": "covers/cFMCUPN66PAntStgLLMizzqvYGhGjouL_31e4ee7bdaff9ab5dd3ec523cb28d4a9457143f40c6bceb2068682d2b0e2d312.png"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Gordon",
+      "format": "",
+      "year": "1992",
+      "cover": "covers/NfCm1av7gvdbREmYSO9hYR3qumGyjzIq_4967465d3316a00826febda03cc42a999381d1bd3445d79403c1fbc0f48d85b0.jpg"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Stunt",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/Ky9L3pm3WxMc7EuCXx91Qis1DbC8SK5n_f1a2a8482b268f1007d7e6af715af8ecfdc55b2f750999597e2bb094c671162f.jpg"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Barenaked Ladies Are Me",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/9P4LAdX9oeY5Tw2Rsezs0jMv6zdQpYyk_57fc01c472f0601505d0516f45696b21e251e71af5b1451fcee4966914998f08.png"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Barenaked Ladies Are Men",
+      "format": "",
+      "year": "2007",
+      "cover": "covers/szJ5dXL55Bme6VOyRdnCSthLOSkvpvKA_98709017ef87373b8567b4215e00b9e8054f263160a4cec0f2acd11a51c469c1.jpg"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Snacktime!",
+      "format": "",
+      "year": "2008",
+      "cover": "covers/KpatLWxNTh5oXXd7zt68YJts3DqTOvqD_d3146255d38282dbde18883c3d2949853564fffe3cd4cd811d799f77fff16619.jpg"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Maybe You Should Drive",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Maroon",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/YDpQnlUUW7QnFCgxeNvK2BA5uU64cdsb_09512ccea7f7ff19e5d71bf30cc17a827389cc3eb162508e0b9872b00ebe983b.jpg"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "Everything to Everyone",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/UP4rnygLFfvrpIGPXMAlZPGnn8pGaKS4_f1e8153c3a7fe08e4aa09a3aff4d6e1d6ef49c9c2f1a4bb93e054005187aab38.jpg"
+    },
+    {
+      "artist": "Béla Fleck",
+      "title": "The Bluegrass Sessions: Tales from the Acoustic Planet, Volume 2",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/Rm44OIqevHCmDF1DDApcLDYqVq2Nh17X_99ed66fb66bf6413aca158ba9cff05c35aff3fc8f0714d5fe1cc21c27456edc1.jpg"
+    },
+    {
+      "artist": "Béla Fleck",
+      "title": "Perpetual Motion",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/pm1Vj5ZOcfOK1XdIVAzmmxwo9fODBrYo_c6b8beeedc80030e764cb70ff719e317016fb7f4b99cdd8ae48776c35252ad5a.png"
+    },
+    {
+      "artist": "Ben Folds Five",
+      "title": "Whatever and Ever Amen",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/RpQVeoqjRza9Fl7R6HyXDXoGrUOBZ9Zr_166e7aa8339d4569a550766d6b01b98ed646f5af33d57e91f829a0550b9e9219.jpg"
+    },
+    {
+      "artist": "Ben Folds Five",
+      "title": "The Unauthorized Biography of Reinhold Messner",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/HaDaXX4f7fa5wuwqQ2h2RtH1Xa7dnORC_07d05dd2c4c6ae542802b6c14b016f11e1b063aaf261b4763a54abe3ea72bc7c.png"
+    },
+    {
+      "artist": "Ben Harper & The Innocent Criminals",
+      "title": "Burn to Shine",
+      "format": "",
+      "year": "",
+      "cover": "covers/B8NPpAbe2yXmY49LkpBebjTsdpALmlpM_c4278eab77cd4b09963f558541aeb4609346524b921b1f38b5316d92ee4ab243.jpg"
+    },
+    {
+      "artist": "Ben Harper",
+      "title": "Diamonds on the Inside",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/ABQqIPZAqODXBlGebRlKpITxi0XOCA8T_01e2520fad322718461ce95d741b57c085eb33c52afaf2017c5e535883dcef75.jpg"
+    },
+    {
+      "artist": "Better Than Ezra",
+      "title": "Closer",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/5ABIw1hEMZAcJG5p4h9UMvyKHrqCc4DT_70993a8ce59740a33a939a0d4e09609292ea3951773e4a47be8846a8aba8479e.jpg"
+    },
+    {
+      "artist": "Big Bad Voodoo Daddy",
+      "title": "Big Bad Voodoo Daddy",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/AmOWvKo3L3bNwEW2NjIdf6RWEXpnfyXh_d8e35c37ebe9fe422d60f1cc4f3eec2f5129e85670edf524a07a5f8eefae178b.jpg"
+    },
+    {
+      "artist": "Big Head Todd and the Monsters",
+      "title": "Live Monsters",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/luptFLopqY9pRLUopg06284wPuni46AU_da85c706ad9672deab38e9919aaf26379b12d4e95d82fde22163860b158402d8.jpg"
+    },
+    {
+      "artist": "The Black Crowes",
+      "title": "Shake Your Money Maker",
+      "format": "",
+      "year": "1990",
+      "cover": "covers/xzBHndpDc0ASJ3Sr5VJdezL5QIcuo6eL_5ea6347499ca43be6ba7fc2c185a9bde9a79c6fd9fd144b9b85e84a9451a16c5.jpg"
+    },
+    {
+      "artist": "Blessed Union of Souls",
+      "title": "Home",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Blues Traveler",
+      "title": "Straight On Till Morning",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/vU2wqXtuX1zMVoBHAcjx9fOOaCwEUh6l_4ea89323ee70e27260d2e7b032b07d55d7b63d502db7c45bd535af81c5ef7a2b.png"
+    },
+    {
+      "artist": "Blues Traveler",
+      "title": "four",
+      "format": "",
+      "year": "",
+      "cover": "covers/T7ao90mcNAtTiNtV6NZNMhxZE6TZHjbE_4d825c40f5b082e3143d205a002861d589b7b1ae5cf03242406426c0319530fe.jpg"
+    },
+    {
+      "artist": "Blues Traveler",
+      "title": "Blues Traveler",
+      "format": "",
+      "year": "1990",
+      "cover": "covers/Ioy5oCseQjz1XLHINUoXO5xrcQAdrUNC_9aeab769df2d7f1646df231182df97cbfa5c04ac13418b63d2fe3b7437c536a2.png"
+    },
+    {
+      "artist": "Blues Traveler",
+      "title": "Live from the Fall",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Blues Traveler",
+      "title": "Bridge",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/aLcHXBANOiSy1l9T9oW1jqTBEh8EOPJG_e42b356f79e09e3e1b3ab75233c249d2554b1510bf119354be571438018a95c6.jpg"
+    },
+    {
+      "artist": "Blue Man Group",
+      "title": "The Complex",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/sQZjkiQllqZKoLM5Rha9E8Rfju4QftDl_9e8dd3a5542b81cbe3750c6a69797ae587a30f2adf9a590cc41ecc1df78769c0.jpg"
+    },
+    {
+      "artist": "Michelle Branch",
+      "title": "The Spirit Room",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/S8ZevMJ7VLEiUr7UvBqD8dY0tZfegh5l_d896e7022de403d68da0f4c81bf26545e0c3c9bb3f128c140503da33575037ad.jpg"
+    },
+    {
+      "artist": "Michelle Branch",
+      "title": "Hotel Paper",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/m0A9NnO4qErzJuP4N8FMAX24Z4tY5EmV_cbb9c1803357b2163370fd580d4ec33ded88f5ff22ebff3dfef4699abb150c70.jpg"
+    },
+    {
+      "artist": "Carbon Leaf",
+      "title": "Indian Summer",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/xNYLhqE0I2WOsjtPImVzXnRwSsD52EeS_3639cb83f810a8da001dbdb18305073f065ed231bb4d1b4f8c62a40eddfa9125.jpg"
+    },
+    {
+      "artist": "CAKE",
+      "title": "Pressure Chief",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/pGaig7YZ0mBnaEeZuwKtCYsunryeFYGG_d12eef96f039001e70170a6af4c68ea2125d978b04f56981d2e2575055255dd5.jpg"
+    },
+    {
+      "artist": "The Calling",
+      "title": "Camino Palmero",
+      "format": "",
+      "year": "",
+      "cover": "covers/jlC1CDR7KL052oBb93yxjavoChEFLuAU_eb06449a246b271e0611a4195d6ffa7f5e1f3c960237d4947c006a7b859f8be8.jpg"
+    },
+    {
+      "artist": "Brandi Carlile",
+      "title": "The Firewatcher’s Daughter",
+      "format": "",
+      "year": "2015",
+      "cover": "covers/ZFh7DrwAVEh5qPQ4qEMAxME7jKipU206_dfb54ade54f0c5e7e2adbc3c18157a7f63c9f9eb99336919ce78929fecec8787.jpg"
+    },
+    {
+      "artist": "Brandi Carlile",
+      "title": "By The Way, I Forgive You",
+      "format": "",
+      "year": "2018",
+      "cover": "covers/svlxv0GZgNuMLsrf1EFiojRGW0OedFWV_bc3267f6bdf70134e2e3cfbd16cd1cda02d750a17c92a350d8b2f86c5aead858.jpg"
+    },
+    {
+      "artist": "Caroline Smith and the Goodnight Sleeps",
+      "title": "Backyard Tentset",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Cat Power",
+      "title": "The Greatest",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/COJ4o2TcToPsYR7Ogm2xEoW10UVWY2sq_7b3789f9926ebb9ec46fb530059bd49b66e52df1d249974c132a311acce3b8bd.jpg"
+    },
+    {
+      "artist": "Childish Gambino",
+      "title": "Camp",
+      "format": "",
+      "year": "2015",
+      "cover": "covers/WrvQSxUQsm9Lse0Cl2jkw9tnWaqxLSsE_c239cdbd1497a8e60e2eab82ebf12721d4021f4ae68d7aef24096980c38519c6.jpg"
+    },
+    {
+      "artist": "Chumbawamba",
+      "title": "Tubthumper",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/c54dU0McEoFKO5AkiEppuzLTQiekWhby_f4e97d5a531755f087f27e34451e45dafed17e0049a1b00df56d23f41f104f0c.jpg"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Viva La Vita",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Coldplay",
+      "title": "X&Y",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/jSNzvkfFQgb7alEYHaATm7UuErxv04Nr_fc46c1e0f8c27f1bd3b137774da2e2e891347b8b9c96bc5ea663bc994311f3af.jpg"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "A Rush of Blood to the Head",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/6IE11F9xKPeB7jDoVOD8O1eKTHDpzhe4_cfca5ee0f09bb7bacaf5a59700ead55a12a13b94c4f478042710ccea66cb70e4.png"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Parachutes",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/mQqIaU4QGhKbJOBfbk4ThMWFhcvkhhQD_a1a8fb7f9503d8db533fe99021faf978e02c6722af71156a75a7d62af2d66533.jpg"
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "August and Everything After",
+      "format": "",
+      "year": "1993",
+      "cover": "covers/QJImGcHtH3nLiEM3l1WUIFGcdR2M2wqt_95740f22674094e3c20aa5723612f419856078506fab5bdd4fd87967bf5235c1.jpg"
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "This Desert Life",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/PnFKhirjw2S3b7qKaeiHlTO7omicqhNw_092158d79a10ecf2df88896ef305425f21f120c59eeead9bfd210475769ac582.jpg"
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "Hard Candy",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/GMudV4ZNdikX3W7aehCMJfJkWJBJniYH_c11e072c5c67f300b6dec1befdfa095a84167bda6024e17ce28f3619053e1cfc.jpg"
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "Across a Wire: Live in New York City",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/Silj6IU50asFxAudiV6U3PsV8SM43s5q_68d67cfb295a043d2b2cc8b22f93a561eced63a123896bd059d5ee80360dc36e.jpg"
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "Saturday Nights Sunday Mornings",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Collective Soul",
+      "title": "7even Year Itch: Greatest Hits 1994–2001",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/13fSPIHF1DXyQYAyOWhBiDgHXJGjdjgR_8cd5b449c0de6d42ea8e4e1e1c9ac94dc89abc5536c4a32ddf8fe8cfedc8d78f.jpg"
+    },
+    {
+      "artist": "Collective Soul",
+      "title": "Disciplined Breakdown",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/o7UCxzIWS3AI3GJDdtBc8T8IDzVaskB5_4f2ed12398524d028bb5ce77e3c6a94df401136b6829b73c099a3f3854a7e2bd.jpg"
+    },
+    {
+      "artist": "Damien Rice",
+      "title": "Live from the Union Chapel",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Daniel Lanois",
+      "title": "For the Beauty of Wynona",
+      "format": "",
+      "year": "1993",
+      "cover": "covers/LfCLvQxnvLGaHUEuKu5C10c35vRgbObF_8994b236c56c1daa682c4aec419aeea2b500aae97bbdd7bd057b1ebc7b3b4d5b.jpg"
+    },
+    {
+      "artist": "Darude",
+      "title": "Before the Storm",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "David Cross",
+      "title": "Shut Up, You Fucking Baby!",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/0dIDDX3Qm6bd8y9I9XwPgzaZO5uLLEIE_eabb1ae1b843b894ed7be05f8cf0a19847175d35f4af4781cf4aba2758a9ef7a.jpg"
+    },
+    {
+      "artist": "Howie Day",
+      "title": "Stop All the World Now",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/YIwZ41RELd5XnEcT3ZSmTQiVCLony13D_458aee915c1e11c15f7edb0ff0d3bc9e50949cf8db647193ed2265dc20be3021.jpg"
+    },
+    {
+      "artist": "Howie Day",
+      "title": "The Madgrials E.P.",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Howie Day",
+      "title": "Australia",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/HvEyKp5k7gkx88s83P31iyZONCXVZoz9_34e3dbecffe610306d684eeb3fbfef5e423dde8c863e28cd4e84aafca203bc38.jpg"
+    },
+    {
+      "artist": "The Decemberists",
+      "title": "The Hazards of Love",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/vGCIGsjTW3uRetdLZd368v3MMVXitEiB_081ca749d4f730770c2fc742c84cf720625c9d1c89046c7094dc9648dabf0723.jpg"
+    },
+    {
+      "artist": "Dessa",
+      "title": "Chime",
+      "format": "",
+      "year": "2018",
+      "cover": "covers/DUH0LbHttiL484nJ6naf0P2xPBR4UpGq_77036bef21486c9f5d94a8b5004189365cf6f463f26e7fbf070a5f218aa35d6c.jpg"
+    },
+    {
+      "artist": "Donavon Frankenreiter",
+      "title": "Donavon Frankenreiter",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/OWuQ7o7vEpyi6YByvIfJ0nrh2PNa5N9k_68f6d3eec7d0b50525ea6f4547476748df1b58dba7ab65ae75ce2ceef502b8dc.jpg"
+    },
+    {
+      "artist": "Mike Doughty",
+      "title": "Haughty Melodic",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/CZjLJCOMqfVzcVub8Q0gZe2Km5mW9CfB_577e0857028303c3eb8b8f3c86105b266455358714fc55f42f47562cbaac9015.jpg"
+    },
+    {
+      "artist": "Edward Sharpe and the Magnetic Zeros",
+      "title": "Here",
+      "format": "",
+      "year": "2012",
+      "cover": "covers/adN7DZJrKFdAwppoTk9G27ZNakOlZwPH_dedd5f45b5cc6d6e99be02777a1310e2140d7667bf9e2ea2337e8d5c9f26c4f0.jpg"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Save Rock and Roll",
+      "format": "",
+      "year": "2013",
+      "cover": "covers/4SgTTtDDSAML1IuJ0YIZEMf7QTKLiNrp_873dd420f698aa481b1e39980c671ad788bc8b69af5fe7c0010372483a61a800.jpg"
+    },
+    {
+      "artist": "Fastball",
+      "title": "All the Pain Money Can Buy",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/5hzdkIwF7BQdCcHCYuS0bLJHkMNtEKkl_e64eb2956749386703509441f7fb4264586652a5a9c33fb611b0ea21a34d38d7.jpg"
+    },
+    {
+      "artist": "Five for Fighting",
+      "title": "America Town",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/gr5Bh87hjmLt7fmtIwtaELqSeADBxOJQ_7f2a855232a4fa3c30ca9d9b0156ac1b68557e00ed46719fa502b3f8f70dae29.jpg"
+    },
+    {
+      "artist": "Five for Fighting",
+      "title": "The Battle for Everything",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/XOQksuEFWyBEXtCDOhsk4obKgTbN6yWq_a36ff8b5fdcf6024db723567edfbf4b6e1ab381d0573f8adc3cdbd299d1354c4.jpg"
+    },
+    {
+      "artist": "Brandon Flowers",
+      "title": "Flamingo",
+      "format": "",
+      "year": "2010",
+      "cover": "covers/7RAq1kQCeErhxo90HZhCZ1Z5Q3gCy1u8_0d65729338b67f7c63188cab3921bbdbca706c7058aba837be9f316a758b95e1.jpg"
+    },
+    {
+      "artist": "Nelly Furtado",
+      "title": "Whoa, Nelly!",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/HHNPVgAlX7fnZypTGZpuNSg0bTV3KQrD_4bad974a6dc56035a218208f5a3b21902e4578f13e00deea0058525f8652e82c.jpg"
+    },
+    {
+      "artist": "Peter Gabriel",
+      "title": "Passion: Music for The Last Temptation of Christ",
+      "format": "",
+      "year": "1989",
+      "cover": "covers/kzU8BTDXNG8Ywz661CNPNGDijh1B3wcp_cf4a58dd1722c462e4b8f23cdc13b3c0ac5c5d60708c00047129b3fa4c11976e.jpg"
+    },
+    {
+      "artist": "Peter Gabriel",
+      "title": "So",
+      "format": "",
+      "year": "",
+      "cover": "covers/4ewgTOqQKn1ROOqgApLR1dvaPSn6Idty_c25fdcc97962fb6d40b3bc9d863f97f65fabd3350f7f1ac21f785f7c6e56b0f0.jpg"
+    },
+    {
+      "artist": "Gavin Rossdale",
+      "title": "Wonderlust",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Gin Blossoms",
+      "title": "New Miserable Experience",
+      "format": "",
+      "year": "1992",
+      "cover": "covers/woPAYXk8EwGu1KGok8bPiLY8d4cauHRw_44eb07c2ddb27568325b850b186c86e71ee3f4b09d3df58285e0e438acbf3c21.jpg"
+    },
+    {
+      "artist": "Gin Blossoms",
+      "title": "Congratulations I’m Sorry",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/hRXid9uaZGvgExMIyx98fUyAkdma7nGD_3c2f8534735ee96ec5760ea53405c32b86c667e5bdef000c9773c601d5b7149e.png"
+    },
+    {
+      "artist": "G Love & Special Sauce",
+      "title": "Coast to Coast Motel",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "G Love & Special Sauce",
+      "title": "Philadelphonic",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Gomez",
+      "title": "Abandoned Shopping Trolley Hotline",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Grateful Dead",
+      "title": "The Grateful Dead",
+      "format": "",
+      "year": "1987",
+      "cover": "covers/ZK01dsxUz5hZol98INRpFzLtFwHAXujf_74f17fea42183358db2bfbb4c94e68e0201a3a5ae328d5eee910dfef7adf33f6.jpg"
+    },
+    {
+      "artist": "Grateful Dead",
+      "title": "Shakedown Street",
+      "format": "",
+      "year": "1984",
+      "cover": "covers/ebVSrNnrirv0AQGch6fEuCYfb5gq5Kp2_24bd0f9dc85d0724859c8e31a00877788ff8778f39ef6c5e23afbe1b76485973.jpg"
+    },
+    {
+      "artist": "Al Green",
+      "title": "I’m Still in Love With You",
+      "format": "",
+      "year": "1993",
+      "cover": "covers/aNlLP61wxpxbFUl2WoW26nSFSdVAzZy2_82f14bff0a30750c672090fd530bb8566968fc29327858eaa32a5f8e0c7c3f0e.jpg"
+    },
+    {
+      "artist": "Guster",
+      "title": "Parachute",
+      "format": "",
+      "year": "1995",
+      "cover": "covers/VFp073H1q36vG8Rcp72fZUyINTFvkOCz_b0411a0c7e92a614297ca09d422f1c0aa117fb6e0c60905c6c2928d3f31a17db.jpg"
+    },
+    {
+      "artist": "Guster",
+      "title": "Keep It Together",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/h8QW3DfA6uoPhFB95BFsx8ZJOFkwjMIS_b901b801979b378b0a83fb833f543bb984aef6a920e1faa784364f2a43a1212c.jpg"
+    },
+    {
+      "artist": "Guster",
+      "title": "Lost and Gone Forever",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Guster",
+      "title": "Easy Wonderful",
+      "format": "",
+      "year": "2010",
+      "cover": "covers/0AHWp8Nk2tttXDbTjelNXD4y3MeqNMSX_b673a07d76a3609e67e0aafe42a2474ed99d5a512e76b773fe1f47eee57df814.jpg"
+    },
+    {
+      "artist": "Hootie & the Blowfish",
+      "title": "Only Wanna Be WIth You (Single)",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Hootie & the Blowfish",
+      "title": "Looking for Lucky",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/hKU2mrUqGnH4j7fdc7Z2LANVzSQxmZwN_7bf09d326e9e5d8a61ed1dcbe61f4184224e993ed9eec6c1868e73f99b4bee11.jpg"
+    },
+    {
+      "artist": "Hootie & the Blowfish",
+      "title": "Fairweather Johnson",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/kdIRopzUWV6jiPDXxNpccWnZnP1xKQoD_435d77ef0bd5bd26797cf4e77cd27428f1a7a81f7a663e6c4450b4bac207bac2.jpg"
+    },
+    {
+      "artist": "Hootie & the Blowfish",
+      "title": "Cracked Rear View",
+      "format": "",
+      "year": "1995",
+      "cover": "covers/hrE5Rvo65anwTzR0W82WOAR9Ir4vxgnx_f8dcae9b956fbc0ca05499bc6ffcfce94e7df528a83e18922a9e8069c0ef0d3c.jpg"
+    },
+    {
+      "artist": "Hüsker Dü",
+      "title": "Zen Arcade",
+      "format": "",
+      "year": "1987",
+      "cover": "covers/ev86EmcTLjyH5LrD1A2X9srTs5obXGaq_e8babf2a51219b6b61d5465de922606720ba91d750bdae40796c3062a8f344c4.jpg"
+    },
+    {
+      "artist": "Mason Jennings",
+      "title": "Birds Flying Away",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/LxzOJJQH7mOGpvIzwzYiKWeMce9peiTl_c064f80646a4c3cf3ee9c5f8ad65de01a4746a80683a9c6146405d55f370dee7.jpg"
+    },
+    {
+      "artist": "Jewel",
+      "title": "0304",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/FYE8tmcvZeC1IwBJxk8Q2siK0pynoIFC_db97c3ae349dced92fb3b0c2ed50edda3f7b2c57312e9cc2bc64c9e19c8e9229.jpg"
+    },
+    {
+      "artist": "Jewel",
+      "title": "Pieces of You",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/cRuefcCRjVKJIeh9vjzabcRy0FxWGfHt_a5cd5f6b7fde5ba962223919ba6cefc58e61fcee7627dc85f0cdccfcfe45ca1c.jpg"
+    },
+    {
+      "artist": "Jack Johnson",
+      "title": "In Between Dreams",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/lIzmqzevnb0vjKhKHbd32IA3Miz6M1mP_7f7808f08d3679029871d83547702ce8f45c1566d60d8d7a7860fe85ee186d79.jpg"
+    },
+    {
+      "artist": "Jack Johnson",
+      "title": "Brushfire Fairytales",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/8QoWyaw7v89Zriz78rJl0fl98l7Lg7L7_2ae374ffe7fd840feea241a671b7ef0c6abe64bc77a1307ba9fa13c07fad349b.jpg"
+    },
+    {
+      "artist": "Jack Johnson",
+      "title": "On and On",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/lnem2wVdbw8PVceEtLRjZYK0msPzjoU2_1c66fd076f7b41b32ad41ed829522ff62c86d6b7d00885583862c227b0ee0fd8.jpg"
+    },
+    {
+      "artist": "Jack Johnson",
+      "title": "Sleep Throuth the Static",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Jimmy Eat World",
+      "title": "Chase This Light",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Elton John",
+      "title": "The One",
+      "format": "",
+      "year": "1992",
+      "cover": "covers/w71uTMNbfpXJJKCKWkVw216518wFfuo5_eab7245b3aaba0a57a3fdca4adfa3ba16a40388b27307ee22cd210313e254ce9.jpg"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Feels Like Home",
+      "format": "",
+      "year": "2016",
+      "cover": "covers/gmnUfUlr8cvWn2ulG00JzUsQwNR15FO7_61f45e9f6a76314f21d3fafcd00d04ee418148eff4eb73ad9d54aac524df0a73.jpg"
+    },
+    {
+      "artist": "Keane",
+      "title": "Hopes and Fears",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/BTSFY0RUp9QWIfucMGxgz6hqyjnByBgS_5e8821051dac5b658df1d9a2f9a958c18ad8f8ba4cd2b4dfec07f8990c040017.jpg"
+    },
+    {
+      "artist": "KT Tunstall",
+      "title": "Eye to the Telescope",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/mijGL2H0IjQeceuxNiUAQ886wRWt6FEs_84e5bc436bee34884d5569e7a5caf670c3e7b29c7e85968ac35fda0bd13a1e7f.jpg"
+    },
+    {
+      "artist": "KT Tunstall",
+      "title": "Drastic Fantastic",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Korn",
+      "title": "Issues",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "La Roux",
+      "title": "La Roux",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/RfM2gBHvJDpJt7pKmjfLSGpycwNRNZab_b25b7363937fb151e32c6c4ba0db22a7db39e238f881591437a113f7f1b72327.jpg"
+    },
+    {
+      "artist": "Ted Leo + Pharmacists",
+      "title": "Shake the Sheets",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/KzycKjS84aMVcUJQpgpeOOUu5cd013g2_642a2748d34b305b8fcb180ca93abaeb709cb8bc7117bffaf21ae75ef4b6ddcf.jpg"
+    },
+    {
+      "artist": "Ted Leo and the Pharmacists",
+      "title": "Living With the Living",
+      "format": "",
+      "year": "2007",
+      "cover": "covers/rD9vTq0SD5GdvhS0zrU3UhwOVqxGN7NL_71a53185cdc6adf19773ee364a917ede03d77902747bfffa2ce3d39b812007ec.jpg"
+    },
+    {
+      "artist": "Ted Leo and the Pharmacists",
+      "title": "Living With the Living (Bonuse EP)",
+      "format": "",
+      "year": "2007",
+      "cover": "covers/rD9vTq0SD5GdvhS0zrU3UhwOVqxGN7NL_71a53185cdc6adf19773ee364a917ede03d77902747bfffa2ce3d39b812007ec.jpg"
+    },
+    {
+      "artist": "LEN",
+      "title": "You Can’t Stop the Bum Rush",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/SnRQTiKHARQ26ALxUHtEmLmGsyub1HcE_07d8f0ce0c1c020ac9aefff76d307102bf657b12ec5acf802f5fbebdc3ae7c6a.jpg"
+    },
+    {
+      "artist": "Lïve",
+      "title": "Secret Samadhi",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/HpyluLHLBXCugqz24k6gDzf4xbLtUNdQ_484de59d3db5e0f51c9e8045e38b62666a07d04f88a9218f07345b8bbbc60d00.jpg"
+    },
+    {
+      "artist": "Lisa Loeb",
+      "title": "Firecracker",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/F1pH1ZBL5mczcPyN4cZbJUzfLBg80nUA_63ba9aae6df00d95516e51164aa7b4c9a102743bcc1265fb04a0b5a5559dcf24.jpg"
+    },
+    {
+      "artist": "Liz Phair",
+      "title": "whitechocolatespaceegg",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/2pn5GsElE0OqFbxNrXtS8WIRSCdO9YMf_9c4d4c938589205966e830085ad39746b7fa10c00173fce2b7f417da863547d1.jpg"
+    },
+    {
+      "artist": "Lizzo",
+      "title": "Lizzobangers",
+      "format": "",
+      "year": "2013",
+      "cover": "covers/2oZ6USh1gBqstkRalE6iLztAHXoMpH8o_58c9a860e1e43beadb0e108ee486e5f050a4a1703e9770733f112d1fe9757f30.jpg"
+    },
+    {
+      "artist": "Medeski Martin & Wood",
+      "title": "Combustication",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Mad Season",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/mDkdBaMQ0UkAdYawcBg1OH0RznLlJwNw_b760721da0724f0b2bda7c9cdbf630c8aeba0e99dcd2b1614887e9eba556020b.jpg"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "More Than You Think You Are",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Matchbox 20",
+      "title": "Yourself or Someone Like You",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/U9jmcXUF1SdEJcHAPsBpzejI2j0FHAtD_ab7a80409948e0acf706c5eee4358bbe193f8a4ccfa0e38402316df92c62bcda.jpg"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Mad Season",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/pABO0OMlRBzaYrKoS6sKWcnpwH4tcrT0_d807edd7c6d45ab9d5d2466a6ce22b5d195344884cfa2e4b10e96d52c6dd1fe5.jpg"
+    },
+    {
+      "artist": "Pat McGee",
+      "title": "Pat McGee",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "John Mayer",
+      "title": "Heaver Things",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "John Mayer",
+      "title": "Inside Wants Out",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/KGavLoRwcUO0U6o6bSGVoW8v3a5YAPEy_4d40107c1d2d4728fc8111a594efe6ae6cfd20dbe743af9e9afa0456f378e50d.jpg"
+    },
+    {
+      "artist": "The Maeflies",
+      "title": "Dinkytown Highway",
+      "format": "",
+      "year": "2010",
+      "cover": "covers/i7ONQa70x43EBkrpkLfghhE6L27uAemA_a305a55cecbad390952b5d7d1c0794df4dc76a34abbefcdfdddd437a16143ecb.jpg"
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "Supposed Former Infatuation Junkie",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/OF8Igtqo4EXKn2oploDFxoxfnWoaOc4J_0fb85d92c39ae0f00971932e99c19e64ce92e5755bc92d38f8e438b58ab2e2e8.jpg"
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "Jagged Little Pill",
+      "format": "",
+      "year": "1995",
+      "cover": "covers/2ldEJxZh2UAOOAcwHEV5MW6zTuGvfnmt_414bed30bd350cdced002601a407fff2c984f651c4bf5fbd3e3d4157e05229e9.jpg"
+    },
+    {
+      "artist": "Matt Nathanson",
+      "title": "Some Mad Hope",
+      "format": "",
+      "year": "2007",
+      "cover": "covers/veMGEjgB2ECA2AxhzkhQg4yM5PpOOnKA_b441177bb9916f751ffdf080161b3ca9ca3720822d3a031d757818920f7fd64c.jpg"
+    },
+    {
+      "artist": "The New Pornographers",
+      "title": "Twin Cinema",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/fkupExBMrfJcBQh4cXidG3LrV4Zcv6TG_fc4f4578861f06e3c91a3488f55351bff6fc74f420b7629527d6758f52c5b167.jpg"
+    },
+    {
+      "artist": "The New Pornographers",
+      "title": "Electric Version",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/a38SBfaJEtXTTdeRHpx8HFvAVbYMzRYL_b5624a1d935fa8d599a7ef95a4c48b67465db5da856e08b8c420d53a139b01d2.jpg"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Sleeps With Angels",
+      "format": "",
+      "year": "1994",
+      "cover": "covers/SQUnFfqbo7Nqrt6Q7dXrvYHq9395oCde_d3183620a50670e0f25442158d28cb8ed2f9af2361d59fa28fd3f0217fc0d4ed.jpg"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Living With War",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/mfuASIcdhMOzI6ZLjnkzOr7rpDXPnnJS_1d8a426786d147ca7cc102633f21b8af5042ed8eb6ce3d3095f02425a3163f8d.jpg"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Prairie Wind",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "No Doubt",
+      "title": "Tragic Kingdom",
+      "format": "",
+      "year": "",
+      "cover": "covers/mqaJ6nJXkxkGFbyFTXxs4N4HFuAH2WXc_e3eff3bcfe73e4b4eaf4873dd82f31530170ca42575d1a17b34f0904b62eb79b.jpg"
+    },
+    {
+      "artist": "North Mississippi Allstars",
+      "title": "Polaris",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/jjC9ic1suJiGyXdOVQEuIPKu6LvHyDiG_476007262f70bcc6adbbe73bcb3a72c9bc0f0a2878af9de15dd7a879ba3ded69.jpg"
+    },
+    {
+      "artist": "*NSYNC",
+      "title": "Home for Christmas",
+      "format": "",
+      "year": "",
+      "cover": "covers/LwE2fW5Sw7CFwQ80aJOk7BBFudSrZdw2_e0024a7170810a56a53a616c2748bb53caee33bdd7799dcacf1566acd7e72e43.jpg"
+    },
+    {
+      "artist": "O.A.R.",
+      "title": "In Between Now and Then",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/9g3BIfgp3LMvq6ENNbr3mwidFfXWh7aM_639baea48bb9f439c1f59cf0a127d2347da36b85b5951f903cff39a127258d39.jpg"
+    },
+    {
+      "artist": "Pearl Jam",
+      "title": "No Code",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Pearl Jam",
+      "title": "Ten",
+      "format": "",
+      "year": "1991",
+      "cover": "covers/e0Z9w0MWtNfcM64AuhqQKyMNNtI1vipg_a3289b301dd91ea28f785904d7838cba7cef3330e975bbcdb66a6d9ee4161808.jpg"
+    },
+    {
+      "artist": "Pearl Jam",
+      "title": "Yield",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Witness",
+      "format": "",
+      "year": "2017",
+      "cover": "covers/7Y2eDqby9kxMiYHYgaigHLxtnBgoFrns_68ceef07c4ca3fbdc89380f995a1fdd0015d226485c9b6515b3482fe56e74709.jpg"
+    },
+    {
+      "artist": "Pearl Jam",
+      "title": "Jeremy",
+      "format": "",
+      "year": "1992",
+      "cover": "covers/0AVjz6YK0ofwxCv4YCftHKEqmRLm0vmY_0632610a6a266b4d7aa6308fa669b785639e2c39957f523a4b6aeee105af9686.jpg"
+    },
+    {
+      "artist": "Phish",
+      "title": "A Live One",
+      "format": "",
+      "year": "1995",
+      "cover": "covers/kyM2sAzqnDfUcNrXr85WormojUIoVG3n_44bd9636001bba8ef98aef67d579744d7e5874bc0bf35ce62cbe832d80ebab6b.jpg"
+    },
+    {
+      "artist": "Prince and the Revolution",
+      "title": "Music from the Motion Picture Purple Rain",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Airbag / How Am I Driving?",
+      "format": "",
+      "year": "2007",
+      "cover": "covers/OdFZZlTe3SOQtrqlejJ4HSENXHCFfx3Q_b8049282ac73ae68731d6fde468cf1072c87ef9a5133eee11120141b509ecb7e.jpg"
+    },
+    {
+      "artist": "Radiohead",
+      "title": "The Bends",
+      "format": "",
+      "year": "2016",
+      "cover": "covers/XrQRWEjFWG254BNpHVmHzvhxQ8kQk3PK_73c104595cf85ad8112b20b4a4d5b7870854b4147b285ac9c8bad4189c94d6f8.png"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "Automatic for the People",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/b4akXygh7vzaSqdR5tfWes5RLZFfSuJS_8ea776e1c6a10e5ca5e8bcf497dfc4f0a8a8cd46093f5ce3b968155a7ab02ae7.jpg"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "Green",
+      "format": "",
+      "year": "1988",
+      "cover": "covers/8h2XPUhl7vmdnPQcNcuPvT0e9qAdB2xu_c3ffcfecb46adc7fcb5deedd6dc4cf381d7eeeb5c9c742ea6bd37682582cc236.jpg"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "Document",
+      "format": "",
+      "year": "1993",
+      "cover": "covers/SvYZEuV9SK0aZC3MVR796I0QyfQmUABQ_f344cd918d6e7c411d5c61cd2ac6a89f61f610fcc215d9fc6b9ed6a4649e7f0e.jpg"
+    },
+    {
+      "artist": "Robert Randolph & The Family Band",
+      "title": "Unclassified",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Robert Randolph & The Family Band",
+      "title": "Live at the Wetlands",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "The Roots",
+      "title": "Things Fall Apart",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/VQ21OzwNMqRe1sDxgI41zZksY4qwLOmt_51f6861d8a52eda1127e7f717da3b5f7875f33744b070e668c8ce89c1259c080.jpg"
+    },
+    {
+      "artist": "The Roots",
+      "title": "Illadelph Halflife",
+      "format": "",
+      "year": "2012",
+      "cover": "covers/okQgZrYOevD2XBFGr7AgruuEz8sKLYCE_89a39e8698ad80ecb177e211d76f5521b7eb8d14439cf2257b716477ed08ab85.jpg"
+    },
+    {
+      "artist": "Rusted Root",
+      "title": "When I Woke",
+      "format": "",
+      "year": "1994",
+      "cover": "covers/Eww512zIMQIKVoW5X8Y2QX3KXki2F0I8_0e66730670c52e311dabe5785b1e1d2b62a6917f50fefa403f926c1da1dcc142.jpg"
+    },
+    {
+      "artist": "Santana",
+      "title": "Shaman",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Santana",
+      "title": "Supernatural",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/BePwEGfv6SdtW9Gso35ajTnvHO5TUG9s_f8eb2045ee1485d1e485f73c91028b76aff7bdbac6a52e12db27cc9aa93cc87e.jpg"
+    },
+    {
+      "artist": "Sister Hazel",
+      "title": "…Somewhere More Familiar",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/HNTcD1KOvAspUjY40M0rGOkG21WXzw1U_26874820fa7dbdb275f34aee73f2893ace883b11dcd2fd9a41b8002e8e707401.jpg"
+    },
+    {
+      "artist": "",
+      "title": "C'mon C'mon",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Tuesday Night Music Club",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Spin Doctors",
+      "title": "You’ve Got to Believe in Something",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/1kvgNXRgJr0bZtyG3JgfMqlP9TTqI7Fn_0f70fcef097c626980b22a39de9117c06cf8298281c97698776d2f72324077be.jpg"
+    },
+    {
+      "artist": "Spin Doctors",
+      "title": "Homebelly Groove",
+      "format": "",
+      "year": "1992",
+      "cover": "covers/ywmgR9P03QTEIASH5yUWHzGGherqGudy_974f69479f948b3131911dc029526a5ffbc2d77742c1dc67e7d0b0a9a537cdea.jpg"
+    },
+    {
+      "artist": "Spin Doctors",
+      "title": "Pocket Full of Kryptonite",
+      "format": "",
+      "year": "",
+      "cover": "covers/qYD6C91bKP4w3itDDW4Pezu6g6hIOslv_9c3382986d99f7f4a49cb303752854755013b5674dcc5ccf5f0f2eda95e426a4.jpg"
+    },
+    {
+      "artist": "Smash Mouth",
+      "title": "Fush Yu Mang",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/NwSfROG2orHnXUHw7vHbs6NlzFUTkO3X_24cfb6044a4b64f39361b9b0fb73fd5bcc1a5fd8e9dcb4b533c4c45d80eaa8c8.jpg"
+    },
+    {
+      "artist": "Snow Patrol",
+      "title": "Fallen Empires",
+      "format": "",
+      "year": "2012",
+      "cover": "covers/6GEkxqyOoyvHDzuWC7B164mZ2KGtNUr8_f13b6b8ce2e7848cd3b07611b7e9d5faab4c6c020b54acf9710d869b92059fb5.jpg"
+    },
+    {
+      "artist": "Soul Coughing",
+      "title": "Irresistible Bliss",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/mxh04Be12dePCcoVxVFQoQZb8vGfGBLx_857e6eabeaceb74dff29b2be699af1db8e6e692d5e92e52d25803008cb6daf28.jpg"
+    },
+    {
+      "artist": "Sugar Ray",
+      "title": "14:59",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/3Rjgo6x51WFbhuYL5mLP5rOPNiUdpiR2_8ce4477beaca97b44d19103a97c2b0761a6617da0a425e16342e0503104c27c5.jpg"
+    },
+    {
+      "artist": "Talking Heads",
+      "title": "Stop Making Sense",
+      "format": "",
+      "year": "1984",
+      "cover": "covers/l3K08FYS8I6UaGORsPaPVmWIHt3TBQ4X_d29ac4e300a16b5c6e4cbf94f7f0fda0a47e9c80b2857e369fbfd28567483150.jpg"
+    },
+    {
+      "artist": "Susan Tedeschi",
+      "title": "Just Won't Burn",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/7pLeMtepZlbmfKWi5Gl9jr2RsV4aJTbO_1e8054367fb2cd1daf030f73756fb814c7cad545ab6221ad9ee39f204d8b5830.jpg"
+    },
+    {
+      "artist": "Tegan and Sara",
+      "title": "So Jealous",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Third Eye Blind",
+      "title": "Blue",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/LrynCfLXzvCHgTeaO61F78AeXqABPG5s_26483f9cc4253f13e5fd9fb01ae8ad001ec62dc021c01e662127072557304ef0.jpg"
+    },
+    {
+      "artist": "Third Eye Blind",
+      "title": "Third Eye Blind",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/yeArAcUFuxhAlPSbPsE4qXujThPlZg2c_8e93a8fc23c55b51b1bb8aafaaa31070836e95d7ea80316a998c80a0c74b7ed7.jpg"
+    },
+    {
+      "artist": "Rob Thomas",
+      "title": "Somthing To Be",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Tonic",
+      "title": "Lemon Parade",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/VCdByLQ1K5PaWAA96KrKx29vKTdzk5aE_cb981f6c5195dd1faef6dff5eae789f1b5dfbcf34b770155c0daf848e48b91d7.jpg"
+    },
+    {
+      "artist": "Train",
+      "title": "Drops of Jupiter",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/4Rs59uubV99LqjzXF6GLNCMuR4RdNoyd_a13c69bf2cde49e5d4c5d686198fa4017ce767d231899eaeb99aa3f5dbf952a5.jpg"
+    },
+    {
+      "artist": "Train",
+      "title": "Train",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/u2DhP2HIBbqaIg1hFni3tTKDOqc1WNm5_d043f1a2fb8db24db6854f500acf8004462f2b478db287b7e543332bd1ca1fc2.jpg"
+    },
+    {
+      "artist": "Train",
+      "title": "My Private Nation",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/hKGsWSdTf65kgSb1yTA0cCakpLlglgB1_a9fd3b35e1d7829b4e12bcdf7162ecb2af39de6829870e92724f121acc65c56c.jpg"
+    },
+    {
+      "artist": "Tori Amos",
+      "title": "Under the Pink",
+      "format": "",
+      "year": "1994",
+      "cover": "covers/xKYXWCXfsfNlfoHMHkyXTdToYeJ79cei_1d4fec8629ad103fb9536a5e0cbfeee1f6cae449631e5f7f777c44659a925835.jpg"
+    },
+    {
+      "artist": "U2",
+      "title": "The Joshua Tree",
+      "format": "",
+      "year": "1987",
+      "cover": "covers/0GBgrgp5O5FbA7QZGNtMvNAJryDcHXa1_ef9c534a38279db03a5099cbda6f6bff39e5213e197b7a1aa040eed7e2edd773.jpg"
+    },
+    {
+      "artist": "Van Morrison",
+      "title": "Moondance",
+      "format": "",
+      "year": "1991",
+      "cover": "covers/vOYIBMdBh6yBu5ExeO35WlJuIDPVDmfD_919caf064cde6852e78f559f312afe623a0e338b947576962bacc6390e406a12.jpg"
+    },
+    {
+      "artist": "Vertical Horizon",
+      "title": "Everything You Want",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/fZAy0h8RWDei02vyvcbJtWUrBeJdnXJ3_0b3fa1a47e7416a0aeee80293ef53b7a32b81e718ccca1acc8e90fe160f1f58a.jpg"
+    },
+    {
+      "artist": "The Verve Pipe",
+      "title": "Villians",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "The Wallflowers",
+      "title": "Red Letter Days",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "The Wallflowers",
+      "title": "Bringing Down the Horse",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/INGKbxabWUIDg4nxj22q8Wt4VTzZuwtR_eb546f842bb886d176bb1c80bf0edd7dd9455af1de68763b4289fe48e1224c19.jpg"
+    },
+    {
+      "artist": "The Wallflowers",
+      "title": "(Breach)",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/dWGqGhbTJcJyaZi9fnlDQaXYaFIBWZfo_c8297a7358c7d3433f6a10ab3a75713bed4e637b83ae69307e3a98af7fe3c51b.jpg"
+    },
+    {
+      "artist": "We Are Scientists",
+      "title": "Barbara",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "“Weird Al” Yankovic",
+      "title": "Bad Hair Day",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/7KK3LqYj8XzW4790zT7lFtUePcY2bGOe_8e2123bd311abf5e7c2eb2ab1e735407405151f20df94b320fca4a0170b8e921.png"
+    },
+    {
+      "artist": "Whitehorse",
+      "title": "The Fate of the World Depends on This Kiss",
+      "format": "",
+      "year": "2012",
+      "cover": "covers/t63Z4X42PJgLGc7nesHu1gbDhZVjdHI7_84862403533320de3c0c2f9da879d79c3dd959c284dae27f86958498efaaaa5e.jpg"
+    },
+    {
+      "artist": "Wilco",
+      "title": "Being There",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/1Do3ATcAKXA2lX9T0TmMC74qkWd7x6dk_8daa12f33759137bdb5119066ff25a5baca738967d4e2bc777e44e345a6fbd1f.jpg"
+    },
+    {
+      "artist": "Wilco",
+      "title": "Yankee Hotel Foxtrot",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Will Smith",
+      "title": "Big Willie Style",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/ExhlVGnl9AHgy4GMByKj6zNAAx18CXw3_276591f3bdf5c1bd63aa582ca8a4bf38f1c8c0c976050830f45f206a0250dfc6.jpg"
+    },
+    {
+      "artist": "Wynton Marsalis",
+      "title": "Thick in the South: Soul Gestures In Southern Blue, Volume 1",
+      "format": "",
+      "year": "1991",
+      "cover": "covers/UbZrqRWc1wgJ78umYQLG5UjVJJ3GHl2G_be75e59b566c353bad9c5ac42b0ca0f9dea8d488611e31a6af3ca240bab30ada.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Recently",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/khloZK9gJ2YkuUD605e3uym8ze415G0I_9a6d82f5450a255344e6eeaf3a46ea7529e349e275ea46b8c647e1156f269a22.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Under the Table and Dreaming",
+      "format": "",
+      "year": "2014",
+      "cover": "covers/r9uckczNIYh5eyF6rdtG0ABiWGHUrGPe_b311bef10a659b76133736f894a121630f811f36bfbc97c215049ce390eaa1b8.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Crash",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/oXnCfBGvZoM8hlxYgzbNLDPFa236tCeU_60944143d90bc7ee6d8a777c1ca086a6b55a960ae0ea355111b81fa04ed2f1e6.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Live at Red Rocks 8.15.95",
+      "format": "",
+      "year": "",
+      "cover": "covers/0XssuNb8wu8Hb2A4Vm6fZeHxGKpzMQmJ_e19006f4522cf6a68b049a50217c17f4497514f202bf5bab77797f1f20321e67.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Before These Crowded Streets",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live at Luther College",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Everyday",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/5QgpVoINQPyTnnmUrAeCVNJSpBlwziZD_e6cfb2f8e181a710d491ec5c4ef7905589123fc1ba1989fac3661820309057fd.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Live in Chicago 12.19.98 at the United Center",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/JkQQY80a71puAuCr45xEJrHQjsMPItxZ_d48ee38e57adcb0ec42158ba9d56de6c957d7b2af3e923b53ea9394bf2f1c25b.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Busted Stuff",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/JnkMrGUenRTyvuN65qd9jwnF1zgw7Req_58e9c9916385f3b70dead99a67659d84a3c82593c8dcea91e75f1aadbf113649.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Live at Folsom Field: Boulder, Colorado",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/Rfys1F6iO2He995VXwlDCNJbkws8RdTG_285358e277bcf300b59b0ed29bc771c25df371d6914934c70551e3f3f5385099.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "The Gorge",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/w5hMrUEy84o0AP0oMZbF6LGMwdOF0dbo_666dbe8842e3cf81e11c71bc466856cafa577abfffef57e6475c70a21447fbc1.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Stand Up",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/iAt4xH2VVspzjNcCPe9qcnktMeZj1mFx_4d4282e5a53477689f859c422695bb68ebbc43233eda3170aa1cc29fe4bb9dd0.jpg"
+    },
+    {
+      "artist": "Dave Matthews",
+      "title": "Some Devil",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/4VRBtcgUBueoUoWWGPOcUfHJPU0hg9HY_2c98270f7529ea722dbf02ccf36ae4a1b58ae37724009a7a218e372cbb0775cb.jpg"
+    },
+    {
+      "artist": "",
+      "title": "A Limited Companion to Stand Up",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "The Best of What’s Around, Volume 1",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/QJYj2dS0bFbfVOhg627fDMGulRug3hMg_a07f325eb5c48ddbeea8b5f63d526ecfdfe1a2066d9d3ed0af4260a69f0ac103.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Big Whiskey and the GrooGrux King",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/NnsXQn5xiGgDjczJV3OTekJxU8bO1L8S_70dfbf43bf5196c3bd874ddcec257b9c2a8a782a36424dc977096cd8a4b21fa1.jpg"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Away From the World",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Trax Vol 20",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Trax Vol 50",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Trax Vol 38",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Trax Vol 54",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Trax Vol 53",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Trax Vol 49",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "ESPN presents Stadium Anthems: Music for the Fans",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/xiTQMShsF1xdWdLMlloxTGnogXhADGFc_319cf71438c600d47eb37c9ab9c11a0d00473bc07d1efa0643026c541fc6fb5b.jpg"
+    },
+    {
+      "artist": "",
+      "title": "The Gentle Side of John Coltrane",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "A Motown Legend",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Music From the Motion Picture City of Angels",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Robert Palmer",
+      "title": "\"Addictions\" Vol 1",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Elton John",
+      "title": "Elton John's Greatest Hits, Volume II",
+      "format": "",
+      "year": "1992",
+      "cover": "covers/xdf68EH9aXOcdpZrfxlEL1Z69yl7gohE_2dfe9c073cd3851a8c0b9ccad0bc16d6c391d52faa8697480651d5299439e933.jpg"
+    },
+    {
+      "artist": "Journey",
+      "title": "Time³",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/mHI9yH4riBREbLo8CyjKxBZ6vsqzoc5m_0b78aae9fcb2fda3371e8bf3b730294e478815f5fe3c90a69d0c7125137004e9.jpg"
+    },
+    {
+      "artist": "Simon and Garfunkel",
+      "title": "The Concert in Central Park",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "The Best of James Taylor",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "The Unplugged Collection Volume One",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Loverboy Classics",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "The Very Best of Sting and the Police",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "The Very Best of UB40",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "The Greatest Hits",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Foo Fighters",
+      "title": "Greatest Hits",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/6LcRdeEC0iPRjiOZufBDZecqllDQrYnR_35deb071046674c7ca6989822ba81a0cd149f378fb26bd6238f5be42eeb541da.jpg"
+    },
+    {
+      "artist": "Eddie Money",
+      "title": "Greatest Hits: Sound of Money",
+      "format": "",
+      "year": "1989",
+      "cover": "covers/KwmqftCoJbkIj6JOfpzg24jiDRjo8tbU_ec04f23174243aa82d78bc0b4c893951fe3b59c065a96c2587b1d39f62ed1e64.jpg"
+    },
+    {
+      "artist": "Johnny Cash",
+      "title": "Giant Hits",
+      "format": "",
+      "year": "",
+      "cover": "covers/1Mcd1jM2WF1njoulJxG4Lm3GmSKZ1jzG_3c75e9d0dc5116b30bee0d27654ac760891544d3a8030217bfeb6fcb62c2e36f.jpg"
+    },
+    {
+      "artist": "The Police",
+      "title": "Every Breath You Take The Classics",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Steve Miller Band",
+      "title": "The Best of 1968-1973",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Sha Na Na",
+      "title": "20 Greatest Hits",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "NOW",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/E4aRL0C8BzSx7LMjgwZsYmIb5STDej9y_ebf61cd5fa9c6f2352eacf7c8b13cd9e5da278354007a2490ab8006174a50878.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 2",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/b9dx2lVCglykq84d8BmjyEmqRaTFMJ2V_500796fdfcbdc7b3ceb0228a3ac457be0852056b2707ec5768d8da1adfa45f83.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 3",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/5GK5E2KQn7VXoZhCFON0LBcmdEnl66O3_9433f9ea1dff10a82cf812c99c8d049d63ccd9c13aed664446edfc41e91dceae.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 4",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/EWQM7ngOGnb30KRqoYkpAlmDW4L8TkU6_8dacf3c95af05e4fcbb32cc7feb4aa4d64082683e5d3ccf45f8265e4f04df611.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 5",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 6",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/B0UmawfSE5wRxt2xcHfN28QXyMvhhKwp_13ebd1d16466783286f0f4280a7b0c5e06b6bd98ba8815d94ab265164e95612a.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 7",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/ttIHKKVu4McnNz789g4idEZ2gNQ6WnJ1_ea09305ab8f7e3d4db6d97e8d2a95e5d535ddb922743cf274d0fc68b95ae1eab.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 8",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/pM56iUeuzWPhwNSSKRYVxC8EPrbhzIDV_c011858a345de4458f2f4947d483893daf2edbcf7609bf99ee913a2d935c9481.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music! 9",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/fPyQhC23pJ7HK355fTf7YUfmhKvWM5Io_d9f1a0e24636be19b61bc52f50170a9ed7a7954a331202327ec0a971d79055a4.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 11",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/xJ1HxIaHFY4ywoUH3Uj0lSP1amhuTv4N_93626361ca06319b9839f43e53f4eef6429d4efe8d9cc658aff2e86a32035f7b.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "NOW That’s What I Call Music! 14",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/Bhd9R4pszrirp2uxp111CjYcfVOzwUXp_b88c106e4589722d676fc9917d67d3b97c2af97e7dd10393567c45992cc6033d.png"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 16",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/SjABWCg4UxdXIgNlLWsoaUzPoWAwCE7V_acc56bb5fbd32b2f6a8a2926eb673d9399b1806f8525baccdc616249ee262503.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "NOW That’s What I Call Music! 17",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/1fLexunIPKQTVF7Nx97pPDsBvaR9EV7Y_efbfbb35afdc715e301db041d0e942b543f05d3a00b38628cd1cac97e3ea6450.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 19",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/AFp0W7WKkQgtFopsGMG5juBA8XvCVTjo_4d928df5ca56c3f46eda508b891aa3a0888ec9b119c579580d21d91213f98e50.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 21",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/b71MiBQ0KIkRIvGy8vVWPd7lzH9JO0pm_e634bf3d84b90409444c23ccdf9eb5025330a41858f451f6ed72d236454460f4.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 22",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/cJpClETm1JwgiYCEt0pNn1bv3eLmxgtl_add3f08220b1abf3bce9a42d77490f89ea4d9a3a891dbf2878013248c391c4c8.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 23",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/dnjzGcpgeO4tEwK2lF7Z7vUMif7THvSx_ed7938133456c54f5d817fbc8eaa1c0b1bf16dce3b7a39658c6fc90521a79fe8.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music! 26",
+      "format": "",
+      "year": "2007",
+      "cover": "covers/k7hG2tcuRbJHgWoRZ88RT7xQVxJfaFnL_04384f5c02dfd265dabc2dc4f9e4bec9fbf114a42b53e26f69fd5909c609ef7b.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 31",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/MWnhFlRMnffVM6XpOAof8jL9iTXCrNii_4dad2400ce722d1c63fe667efd49e0783b9532f0f0e8a591f319eb77942d7668.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 38",
+      "format": "",
+      "year": "2011",
+      "cover": "covers/roOFr1v8cpfUOrPaV6jIXQ8yycLiQwPm_a31a9865f7f618be2b41a4987e305752248294054e263295b588ca5c0e8e1c36.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Music! 43",
+      "format": "",
+      "year": "2012",
+      "cover": "covers/9avxPLZQYFSZDnrKxMbm9s41FDTkmjuB_1cec6e1b65ee302847886bb467065204bda1e5095e0837028a9c98fe19351f07.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Now That’s What I Call Christmas!",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/6514Sp88EoZWZitRIIkbs84ZDHhvicyV_30bb7f1796b0e5a0e6cf06de4a0e0ef07f0addd3a41709766571ee27b50113dc.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler Volume 27",
+      "format": "",
+      "year": "2015",
+      "cover": "covers/SNfrHDixv0Hib6vw0ZxbK9xDfpFk66Hc_0813949c0dd7d4381f7a69f2cf486091114f0a93dd3f888128045acb8a9f85e3.png"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 28",
+      "format": "",
+      "year": "2016",
+      "cover": "covers/JpGmTfLCESBScCQAMjlf1bpGhpfrstpD_225f4738f65aa7ea9beab095243f425811fade252d4504219ad583b22c5d0544.jpg"
+    },
+    {
+      "artist": "",
+      "title": "Take Action Volume 9",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "102.1 KPRi Live Tracks Vol. 4",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "KFOG: Live From the Archives 4!",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "KFOG: Live From the Archives 5!",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/gpNLhDxjPKV8xci8QccaYeDrr3O6dM8r_d5aeb8898490d52f321a1501f86a56ddc8d17875a8dc8f7ad2d5d7c207a65c1a.jpg"
+    },
+    {
+      "artist": "",
+      "title": "KFOG: Live From the Archives 14!",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 21",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/Rlf637b8ek7mAFbXdbNfLknwzPcTXXF8_b6c381537134755b564ce7d6ac3e4968306083f75266cddba93e96c2ffa70e1f.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 19",
+      "format": "",
+      "year": "2007",
+      "cover": "covers/0L4IkZU6JACdE5BlHYblSrZut5w4MWNL_891377025b08ba968ae8d5d32d18b0fffe63ee4bb4e7d26c634a5a543cb2d70c.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 18",
+      "format": "",
+      "year": "2006",
+      "cover": "covers/VHx8bvu31mat51m0u7aUQRy6pajb6qx9_03c5d20f0189a6d49cc6a285e7f815733a58d6c8c7a76fe4a288a219b994a84b.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 17",
+      "format": "",
+      "year": "2005",
+      "cover": "covers/JNo4E2gPmcXfwZjtnz6R36kEAGT8cvLK_5b542396b0d6c8bfbd8cb91a258e185872898aab4a01e8a08bfed2f4afaa4d28.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 16",
+      "format": "",
+      "year": "2004",
+      "cover": "covers/eM6tnRhcdgGnKcENVeHMw3gGN9Syq7X8_a01fe2622238f5c484758d0e4e58a75d1d68bb668019a353d63f0ff8d0b17422.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 15",
+      "format": "",
+      "year": "2003",
+      "cover": "covers/1Mn8U30D8DhwJvrqn5ynW6NUjgHyY8aQ_ee7f684cd3956f02cd88a4deac6b0dd962b73f31d0acdd29b3ea5537f0a0a538.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 13",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/6nNYfeDehgHRnOlMPv46m0PORXxMyq1B_4393519808854912a2191b30f47d0bc9143574d900ceb6f5e1671f96b5f99a90.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 14",
+      "format": "",
+      "year": "2002",
+      "cover": "covers/YI2AW6gnMSs9zZvymXobO8EGubwTl5Z9_896dc9cea8da164e091bb39f69dd8cb212b158e9b8ea1728b6abf2b964837d6a.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 25",
+      "format": "",
+      "year": "2013",
+      "cover": "covers/2Cc0N7AODeAJlDSqEKe4V9tLoOmnDf6m_bb936ddca108679426fbd6ea24999f9a83d4386ffe2f4822520e3a2abfe11326.jpg"
+    },
+    {
+      "artist": "",
+      "title": "Cities 97 Sampler, Volume 3",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 6 (Gems)",
+      "format": "",
+      "year": "1994",
+      "cover": "covers/h2AMbQJ0gUmELP9YjzJAsOWYCjegWhG4_013556b5ea6478231b2eea06d2b626deda40a1beab8875c4543550a67bd6341e.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 8",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/Y2NNPRdZsx1PyW7U0ttnzNhfmrXjToCi_c4bd8b4f9660514d95427fefba785ea370c034f3286049dbc32580fac9fe2622.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 9",
+      "format": "",
+      "year": "1997",
+      "cover": "covers/T2yt7Ej6B4eqNbcV3CLvUd6ci5bnlHYU_de188ad36665ef13adb6aeded546f191bc2a7db84786278810097de81e0ec7b8.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 10",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/R0U7cn9Bj4NEWuetSUYmYXnSSJR2dB61_21a7d44eab441cbc5bda8cd6f8a8c71e35d594c396c8e833fcb8fd77acc1f2a8.jpg"
+    },
+    {
+      "artist": "",
+      "title": "Cities 97 Sampler, Volume 11",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 12",
+      "format": "",
+      "year": "2000",
+      "cover": "covers/hWRPt2xnzsc4UJeLmyl0QxBcrcCQoK7U_d7dcbc63953c7044c1013e3773ceafb389b42456506cfd8bc7211f03d1d39914.jpg"
+    },
+    {
+      "artist": "",
+      "title": "GLADD Awards Sampler",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Current Vol. 2",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Current Vol. 3",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Current Vol. 4",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "Live Current Vol. 6",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "",
+      "title": "89.3 The Current",
+      "format": "",
+      "year": "",
+      "cover": ""
+    }
+  ]
+}
