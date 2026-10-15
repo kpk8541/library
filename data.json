@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T22:13:34Z",
+  "generated": "2026-10-15T08:00:03Z",
   "books": [
     {
       "title": "The selfish gene",
@@ -2296,13 +2296,6 @@
   ],
   "albums": [
     {
-      "artist": "Michael Jackson",
-      "title": "Thriller",
-      "format": "",
-      "year": "2008",
-      "cover": "covers/UbjOn2SGoaTe8sXvUr71Z35WoQ207EUO_82929539e7b156a3c57aee59851cee9596adcbc09af96e29daa7dbc90136c392.jpg"
-    },
-    {
       "artist": "3 Doors Down",
       "title": "Seventeen Days",
       "format": "",
@@ -3850,7 +3843,7 @@
       "cover": "covers/xiTQMShsF1xdWdLMlloxTGnogXhADGFc_319cf71438c600d47eb37c9ab9c11a0d00473bc07d1efa0643026c541fc6fb5b.jpg"
     },
     {
-      "artist": "",
+      "artist": "John Coltrane",
       "title": "The Gentle Side of John Coltrane",
       "format": "",
       "year": "",
@@ -3864,7 +3857,7 @@
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Music From the Motion Picture City of Angels",
       "format": "",
       "year": "",
@@ -3899,35 +3892,35 @@
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "James Taylor",
       "title": "The Best of James Taylor",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "The Unplugged Collection Volume One",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Loverboy",
       "title": "Loverboy Classics",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "The Police",
       "title": "The Very Best of Sting and the Police",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "UB40",
       "title": "The Very Best of UB40",
       "format": "",
       "year": "",
@@ -4151,21 +4144,21 @@
       "cover": "covers/JpGmTfLCESBScCQAMjlf1bpGhpfrstpD_225f4738f65aa7ea9beab095243f425811fade252d4504219ad583b22c5d0544.jpg"
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Take Action Volume 9",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "102.1 KPRi Live Tracks Vol. 4",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "KFOG: Live From the Archives 4!",
       "format": "",
       "year": "",
@@ -4179,7 +4172,7 @@
       "cover": "covers/gpNLhDxjPKV8xci8QccaYeDrr3O6dM8r_d5aeb8898490d52f321a1501f86a56ddc8d17875a8dc8f7ad2d5d7c207a65c1a.jpg"
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "KFOG: Live From the Archives 14!",
       "format": "",
       "year": "",
@@ -4249,7 +4242,7 @@
       "cover": "covers/2Cc0N7AODeAJlDSqEKe4V9tLoOmnDf6m_bb936ddca108679426fbd6ea24999f9a83d4386ffe2f4822520e3a2abfe11326.jpg"
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Cities 97 Sampler, Volume 3",
       "format": "",
       "year": "",
@@ -4284,7 +4277,7 @@
       "cover": "covers/R0U7cn9Bj4NEWuetSUYmYXnSSJR2dB61_21a7d44eab441cbc5bda8cd6f8a8c71e35d594c396c8e833fcb8fd77acc1f2a8.jpg"
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Cities 97 Sampler, Volume 11",
       "format": "",
       "year": "",
@@ -4298,46 +4291,81 @@
       "cover": "covers/hWRPt2xnzsc4UJeLmyl0QxBcrcCQoK7U_d7dcbc63953c7044c1013e3773ceafb389b42456506cfd8bc7211f03d1d39914.jpg"
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "GLADD Awards Sampler",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Live Current Vol. 2",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Live Current Vol. 3",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Live Current Vol. 4",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "Live Current Vol. 6",
       "format": "",
       "year": "",
       "cover": ""
     },
     {
-      "artist": "",
+      "artist": "Various Artists",
       "title": "89.3 The Current",
       "format": "",
       "year": "",
       "cover": ""
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Singles: Original Motion Picture Soundtrack",
+      "format": "",
+      "year": "1992",
+      "cover": "covers/ovvszGHT80hN6eYnM70Px0lt4tIsbqpv_f8bc9e7afc1e961c22afa4687ef9894f088b75b2a0c21e7795fa899b384ac557.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "KBCO Studio C Volume Twelve",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "They Might Be Giants",
+      "title": "Best of the Early Years",
+      "format": "",
+      "year": "1999",
+      "cover": "covers/YNSj76qCLf8CEw1DxBH2Nrw4DcN9EbKO_df6f4d7bc994ce9eb68cc5bfa34277e944899b7537c9e3ffad0ca4b140e89926.jpg"
+    },
+    {
+      "artist": "Steve Earle",
+      "title": "Train a Comin'",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "John Mayer",
+      "title": "Room for Squares",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/LfQ9t8XsqmtmHVdlPmXuUJrGszcsw9m7_55b926234220fe880b929a1059b4f32f9b81f869df6d068b1edab4d18c6ffdb4.jpg"
     }
   ]
 }
