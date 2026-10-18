@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T08:00:03Z",
+  "generated": "2026-10-18T08:00:02Z",
   "books": [
     {
       "title": "The selfish gene",
@@ -2390,8 +2390,8 @@
       "artist": "Barenaked Ladies",
       "title": "Rock Spectacle",
       "format": "",
-      "year": "",
-      "cover": "covers/cFMCUPN66PAntStgLLMizzqvYGhGjouL_31e4ee7bdaff9ab5dd3ec523cb28d4a9457143f40c6bceb2068682d2b0e2d312.png"
+      "year": "1996",
+      "cover": "covers/gUyDHiTe2LQrL6OAf9WVZWWgI6IA5icN_504420006a5f713931304e872fb3268afb1b278237a1d0b5c68d4b06d606dcaf.jpg"
     },
     {
       "artist": "Barenaked Ladies",
@@ -4366,6 +4366,62 @@
       "format": "",
       "year": "2001",
       "cover": "covers/LfQ9t8XsqmtmHVdlPmXuUJrGszcsw9m7_55b926234220fe880b929a1059b4f32f9b81f869df6d068b1edab4d18c6ffdb4.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 7 (Essentials)",
+      "format": "",
+      "year": "1995",
+      "cover": "covers/8JkOYxU1Z6UUjdR7rcBFgLvgpeddJjP5_957dd84e7c7273a59a3638fa88d3729e30a16ffc018eda0f813b2a2ed39e57e4.jpg"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "Cities 97 Sampler, Volume 8",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/Y2NNPRdZsx1PyW7U0ttnzNhfmrXjToCi_c4bd8b4f9660514d95427fefba785ea370c034f3286049dbc32580fac9fe2622.jpg"
+    },
+    {
+      "artist": "The Verve Pipe",
+      "title": "Villains",
+      "format": "",
+      "year": "1996",
+      "cover": "covers/FRgBTRSLnSNUYpBwWG01qFYlkFWYyueT_aab2b8d069bd9293b88265ba7d26e2a0e0f13729c6568c54a1063481df66e5c4.jpg"
+    },
+    {
+      "artist": "Tracy Chapman",
+      "title": "Collection",
+      "format": "",
+      "year": "2001",
+      "cover": "covers/MioPXqrkti5qSBQBRMlRiUOQHtMa8YGd_2888121c150427aef4edcc9b36b13cb27956cdd6c403a8ecad35e29bce24fe39.jpg"
+    },
+    {
+      "artist": "Soul Asylum",
+      "title": "Grave Dancers Union",
+      "format": "",
+      "year": "",
+      "cover": ""
+    },
+    {
+      "artist": "Billy Bragg",
+      "title": "Mermaid Avenue",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/PogrYg4P4TOp0nwXO141OqZCdGVI2cPl_7d3220a617a6db3aefcf0c93a230219798add5d7435f952753ab953bcb978a75.jpg"
+    },
+    {
+      "artist": "Dog’s Eye View",
+      "title": "Happy Nowhere",
+      "format": "",
+      "year": "2009",
+      "cover": "covers/fpBiTPnFMxfgqs9DulkhZxUuHIoY9e25_aec4d3b49018b2ba1f2b7828210f3dd4f316f3dc0972de504f91515c9631a0af.jpg"
+    },
+    {
+      "artist": "Semisonic",
+      "title": "Feeling Strangely Fine",
+      "format": "",
+      "year": "1998",
+      "cover": "covers/GMJPIK7RFhXMAGzb9Lm4kiCrQ1Qbeorx_4b4e18b079a27ee4385646163e2c509551b984cb4011b10959e4793b0c47e934.jpg"
     }
   ]
 }
